@@ -1,8 +1,7 @@
 # Sound of the Far Future
 
 [Hear it live.](https://jimkang.com/sound-of-the-far-future/)
-
-[Get the album.](https://jimkang.bandcamp.com/album/the-sound-of-the-far-future)
+<!-- [Get the album.](https://jimkang.bandcamp.com/album/the-sound-of-the-far-future) -->
 
 This is a browser-performed piece of ambient music. It is a musical interpretation of the scientific predictions described in the Wikipedia article [The Timeline of the Far Future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future). It is also a data sonification that presents the events of the far future, which span 10<sup>10<sup>10<sup>56</sup></sup></sup> years within a few hours to give the listener a sense of the scale and relationship between these events.
 
