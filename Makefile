@@ -7,7 +7,7 @@ deploy:
 	npm version patch && make build && git commit -a -m"Build" && make pushall
 
 pushall: sync
-	git push origin master
+	git push origin main
 
 run:
 	$(rollup) -c -w
