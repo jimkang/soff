@@ -1,0 +1,65 @@
+{
+  "name": "sound-of-the-far-future",
+  "version": "2.2.7",
+  "description": "A browser-performed piece of music.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/sound-of-the-far-future.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "Polyform Noncommercial License 1.0",
+  "bugs": {
+    "url": "https://github.com/jimkang/sound-of-the-far-future/issues"
+  },
+  "homepage": "https://github.com/jimkang/sound-of-the-far-future",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^19.0.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "async-waterfall": "^0.1.5",
+    "eslint": "^7.24.0",
+    "lodash.curry": "^4.1.1",
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "rollup": "^2.50.6",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "sirv-cli": "^1.0.12"
+  },
+  "dependencies": {
+    "@jimkang/randomid": "^1.0.2",
+    "accessor": "^3.0.0",
+    "audio-context-singleton": "^1.0.3",
+    "basic-browser-request": "^9.0.2",
+    "call-next-tick": "^2.0.1",
+    "collect-in-channel": "^3.0.1",
+    "d3-array": "^2.4.0",
+    "d3-drag": "^1.2.5",
+    "d3-ease": "^1.0.6",
+    "d3-queue": "^3.0.7",
+    "d3-scale": "^3.2.1",
+    "d3-selection": "^1.4.0",
+    "d3-transition": "^1.3.2",
+    "errorback-promise": "^1.0.0",
+    "get-at-path": "^1.0.1",
+    "handle-error-web": "^1.0.1",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.throttle": "^4.1.1",
+    "oknok": "^3.0.0",
+    "one-listener-per-element": "^1.0.1",
+    "probable": "^2.1.4",
+    "request-body-mover": "^1.0.1",
+    "route-state": "^2.0.5",
+    "sanitize-html": "^1.27.5",
+    "seedrandom": "^3.0.5",
+    "soundbank-reverb": "^1.1.2",
+    "strokerouter": "^2.0.0"
+  }
+}

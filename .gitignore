@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+*.swp
+config.js
+config.mk
+index.js.map

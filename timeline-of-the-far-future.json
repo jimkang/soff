@@ -1,0 +1,1286 @@
+[
+  {
+    "yearsFromNow": 0,
+    "years": {
+      "base": 0,
+      "exp": 1
+    },
+    "contentHTML": "Now. You are alive and listening to this piece.",
+    "category": "earth",
+    "id": "event-EBME",
+    "startTimeInCompactUnits": 0,
+    "easedStartTime": 0,
+    "cleanedContentHTML": "Now. You are alive and listening to this piece.",
+    "skimmableContent": "Now. You are alive and listening to this piece."
+  },
+  {
+    "yearsFromNow": "10,000",
+    "contentHTML": "The <a href=\"/wiki/Red_supergiant_star\" title=\"Red supergiant star\">red supergiant star</a> <a href=\"/wiki/Antares\" title=\"Antares\">Antares</a> will likely have exploded in a <a href=\"/wiki/Supernova\" title=\"Supernova\">supernova</a>. The explosion is expected to be easily visible in daylight.<sup id=\"cite_ref-hockey_10-0\" class=\"reference\"><a href=\"#cite_note-hockey-10\">[8]</a></sup>",
+    "years": {
+      "base": 10000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-BRoq",
+    "startTimeInCompactUnits": 4,
+    "easedStartTime": 4,
+    "cleanedContentHTML": "The red supergiant star Antares will likely have exploded in a supernova. The explosion is expected to be easily visible in daylight.[8]",
+    "skimmableContent": "The red supergiant star Antares will likely have exploded."
+  },
+  {
+    "yearsFromNow": "15,000",
+    "contentHTML": "According to the <a href=\"/wiki/Sahara_pump_theory\" title=\"Sahara pump theory\">Sahara pump theory</a>, the <a href=\"/wiki/Precession\" title=\"Precession\">precession</a> of Earth's poles will move the <a href=\"/wiki/North_African_Monsoon\" class=\"mw-redirect\" title=\"North African Monsoon\">North African Monsoon</a> far enough north to convert the <a href=\"/wiki/Sahara\" title=\"Sahara\">Sahara</a> back into a tropical climate, <a href=\"/wiki/Neolithic_Subpluvial\" title=\"Neolithic Subpluvial\">as it was</a> 5,000–10,000 years ago.<sup id=\"cite_ref-tropicalsahara1_11-0\" class=\"reference\"><a href=\"#cite_note-tropicalsahara1-11\">[9]</a></sup><sup id=\"cite_ref-tropicalsahara2_12-0\" class=\"reference\"><a href=\"#cite_note-tropicalsahara2-12\">[10]</a></sup>",
+    "years": {
+      "base": 15000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-NOuX",
+    "startTimeInCompactUnits": 4.176091259055681,
+    "easedStartTime": 4.699234656595423,
+    "cleanedContentHTML": "According to the Sahara pump theory, the precession of Earth's poles will move the North African Monsoon far enough north to convert the Sahara back into a tropical climate, as it was 5,000–10,000 years ago.[9][10]",
+    "skimmableContent": "The Sahara's climate will become tropical."
+  },
+  {
+    "yearsFromNow": "36,000",
+    "contentHTML": "The small <a href=\"/wiki/Red_dwarf\" title=\"Red dwarf\">red dwarf</a> <a href=\"/wiki/Ross_248\" title=\"Ross 248\">Ross 248</a> will pass within 3.024 light-years of Earth, becoming the closest star to the Sun.<sup id=\"cite_ref-Matthews1993_15-0\" class=\"reference\"><a href=\"#cite_note-Matthews1993-15\">[13]</a></sup> It will recede after about 8,000 years, making first <a href=\"/wiki/Alpha_Centauri\" title=\"Alpha Centauri\">Alpha Centauri</a> again and then <a href=\"/wiki/Gliese_445\" title=\"Gliese 445\">Gliese 445</a> the nearest stars<sup id=\"cite_ref-Matthews1993_15-1\" class=\"reference\"><a href=\"#cite_note-Matthews1993-15\">[13]</a></sup> (<a href=\"/wiki/List_of_nearest_stars_and_brown_dwarfs#Distant_future_and_past_encounters\" title=\"List of nearest stars and brown dwarfs\">see timeline</a>).",
+    "years": {
+      "base": 36000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-BJCq",
+    "startTimeInCompactUnits": 4.556302500767287,
+    "easedStartTime": 6.174799731025908,
+    "cleanedContentHTML": "The small red dwarf Ross 248 will pass within 3.024 light-years of Earth, becoming the closest star to the Sun.[13] It will recede after about 8,000 years, making first Alpha Centauri again and then Gliese 445 the nearest stars[13] (see timeline).",
+    "skimmableContent": "The small red dwarf Ross 248 will pass within 3.024 light-years of Earth, becoming the closest star to the Sun."
+  },
+  {
+    "yearsFromNow": "50,000",
+    "contentHTML": "According to Berger and Loutre, the current <a href=\"/wiki/Interglacial\" title=\"Interglacial\">interglacial</a> period ends,<sup id=\"cite_ref-Berger2002_16-0\" class=\"reference\"><a href=\"#cite_note-Berger2002-16\">[14]</a></sup> sending the Earth back into a <a href=\"/wiki/Glacial_period\" title=\"Glacial period\">glacial period</a> of the current <a href=\"/wiki/Ice_age\" title=\"Ice age\">ice age</a>, regardless of the effects of anthropogenic <a href=\"/wiki/Global_warming\" title=\"Global warming\">global warming</a>.<p><a href=\"/wiki/Niagara_Falls\" title=\"Niagara Falls\">Niagara Falls</a> will have eroded away the remaining 32&nbsp;km to <a href=\"/wiki/Lake_Erie\" title=\"Lake Erie\">Lake Erie</a>, and cease to exist.<sup id=\"cite_ref-Niagara_Parks_17-0\" class=\"reference\"><a href=\"#cite_note-Niagara_Parks-17\">[15]</a></sup></p><p>The many <a href=\"/wiki/Glacial_lake\" title=\"Glacial lake\">glacial lakes</a> of the <a href=\"/wiki/Canadian_Shield\" title=\"Canadian Shield\">Canadian Shield</a> will have been erased by <a href=\"/wiki/Post-glacial_rebound\" title=\"Post-glacial rebound\">post-glacial rebound</a> and erosion.<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\">[16]</a></sup></p>",
+    "years": {
+      "base": 50000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-CjwF",
+    "startTimeInCompactUnits": 4.698970004336019,
+    "easedStartTime": 6.716757840690438,
+    "cleanedContentHTML": "According to Berger and Loutre, the current interglacial period ends,[14] sending the Earth back into a glacial period of the current ice age, regardless of the effects of anthropogenic global warming.<p>Niagara Falls will have eroded away the remaining 32 km to Lake Erie, and cease to exist.[15]</p><p>The many glacial lakes of the Canadian Shield will have been erased by post-glacial rebound and erosion.[16]</p>",
+    "skimmableContent": "The Earth returns to a glacial period of the current ice age. Niagara Falls will cease to exist."
+  },
+  {
+    "yearsFromNow": "100,000",
+    "contentHTML": "The <a href=\"/wiki/Proper_motion\" title=\"Proper motion\">proper motion</a> of stars across the <a href=\"/wiki/Celestial_sphere\" title=\"Celestial sphere\">celestial sphere</a>, which is the result of their movement through the <a href=\"/wiki/Milky_Way\" title=\"Milky Way\">Milky Way</a>, renders many of the <a href=\"/wiki/Constellation\" title=\"Constellation\">constellations</a> unrecognisable.<sup id=\"cite_ref-Tapping_2005_20-0\" class=\"reference\"><a href=\"#cite_note-Tapping_2005-20\">[18]</a></sup>",
+    "years": {
+      "base": 100000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-qplV",
+    "startTimeInCompactUnits": 5,
+    "easedStartTime": 7.84,
+    "cleanedContentHTML": "The proper motion of stars across the celestial sphere, which is the result of their movement through the Milky Way, renders many of the constellations unrecognisable.[18]",
+    "skimmableContent": "The motion of stars renders many of the constellations unrecognisable."
+  },
+  {
+    "yearsFromNow": "100,000",
+    "contentHTML": "The <a href=\"/wiki/Hypergiant\" title=\"Hypergiant\">hypergiant</a> star <a href=\"/wiki/VY_Canis_Majoris\" title=\"VY Canis Majoris\">VY Canis Majoris</a> will likely have exploded in a <a href=\"/wiki/Superluminous_supernova\" title=\"Superluminous supernova\">hypernova</a>.<sup id=\"cite_ref-Monnier_Tuthill_Lopez_1999_21-0\" class=\"reference\"><a href=\"#cite_note-Monnier_Tuthill_Lopez_1999-21\">[19]</a></sup>",
+    "years": {
+      "base": 100000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-lASx",
+    "startTimeInCompactUnits": 5,
+    "easedStartTime": 7.84,
+    "cleanedContentHTML": "The hypergiant star VY Canis Majoris will likely have exploded in a hypernova.[19]",
+    "skimmableContent": "The hypergiant star VY Canis Majoris will likely have exploded."
+  },
+  {
+    "yearsFromNow": "100,000",
+    "contentHTML": "Earth will likely have undergone a <a href=\"/wiki/Supervolcanic\" class=\"mw-redirect\" title=\"Supervolcanic\">supervolcanic</a> eruption large enough to erupt 400&nbsp;km<sup>3</sup> (96 cubic miles) of <a href=\"/wiki/Magma\" title=\"Magma\">magma</a>. For comparison, <a href=\"/wiki/Lake_Erie\" title=\"Lake Erie\">Lake Erie</a> is 484&nbsp;km<sup>3</sup> (116&nbsp;cu&nbsp;mi).<sup id=\"cite_ref-toba_22-0\" class=\"reference\"><a href=\"#cite_note-toba-22\">[20]</a></sup>",
+    "years": {
+      "base": 100000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-ytaS",
+    "startTimeInCompactUnits": 5,
+    "easedStartTime": 7.84,
+    "cleanedContentHTML": "Earth will likely have undergone a supervolcanic eruption large enough to erupt 400 km3 (96 cubic miles) of magma. For comparison, Lake Erie is 484 km3 (116 cu mi).[20]",
+    "skimmableContent": "Earth will likely have undergone a supervolcanic eruption with enough Magma to fill Lake Erie."
+  },
+  {
+    "yearsFromNow": "100,000",
+    "contentHTML": "Native North American <a href=\"/wiki/Earthworm\" title=\"Earthworm\">earthworms</a>, such as <a href=\"/wiki/Megascolecidae\" title=\"Megascolecidae\">Megascolecidae</a>, will have naturally spread north through the United States <a href=\"/wiki/Upper_Midwest\" title=\"Upper Midwest\">Upper Midwest</a> to the <a href=\"/wiki/Canada%E2%80%93United_States_border\" title=\"Canada–United States border\">Canada–US border</a>, recovering from the <a href=\"/wiki/Laurentide_Ice_Sheet\" title=\"Laurentide Ice Sheet\">Laurentide Ice Sheet</a> glaciation (38°N to 49°N), assuming a migration rate of 10&nbsp;metres per year.<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[21]</a></sup> (However, non-native <a href=\"/wiki/Invasive_earthworms_of_North_America\" title=\"Invasive earthworms of North America\">invasive earthworms of North America</a> have already been introduced by humans on a much shorter timescale, causing a shock to the regional <a href=\"/wiki/Ecosystem\" title=\"Ecosystem\">ecosystem</a>.)",
+    "years": {
+      "base": 100000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-TLdB",
+    "startTimeInCompactUnits": 5,
+    "easedStartTime": 7.84,
+    "cleanedContentHTML": "Native North American earthworms, such as Megascolecidae, will have naturally spread north through the United States Upper Midwest to the Canada–US border, recovering from the Laurentide Ice Sheet glaciation (38°N to 49°N), assuming a migration rate of 10 metres per year.[21] (However, non-native invasive earthworms of North America have already been introduced by humans on a much shorter timescale, causing a shock to the regional ecosystem.)",
+    "skimmableContent": "Native North American earthworms will have naturally spread to the Canada–US border."
+  },
+  {
+    "yearsFromNow": "> 100,000",
+    "contentHTML": "As one of the <a href=\"/wiki/Long-term_effects_of_global_warming\" title=\"Long-term effects of global warming\">long-term effects of global warming</a>, 10% of <a href=\"/wiki/Greenhouse_gas\" title=\"Greenhouse gas\">anthropogenic carbon dioxide</a> will still remain in a stabilized atmosphere.<sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[22]</a></sup>",
+    "years": {
+      "base": 100000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-EQlf",
+    "startTimeInCompactUnits": 5,
+    "easedStartTime": 7.84,
+    "cleanedContentHTML": "As one of the long-term effects of global warming, 10% of anthropogenic carbon dioxide will still remain in a stabilized atmosphere.[22]",
+    "skimmableContent": "As one of the long-term effects of global warming, 10% of anthropogenic carbon dioxide will still remain in a stabilized atmosphere."
+  },
+  {
+    "yearsFromNow": "250,000",
+    "contentHTML": "<a href=\"/wiki/L%C5%8D%CA%BBihi_Seamount\" title=\"Lōʻihi Seamount\">Lōʻihi</a>, the youngest volcano in the <a href=\"/wiki/Hawaiian%E2%80%93Emperor_seamount_chain\" title=\"Hawaiian–Emperor seamount chain\">Hawaiian–Emperor seamount chain</a>, will rise above the surface of the ocean and become a new <a href=\"/wiki/High_island\" title=\"High island\">volcanic island</a>.<sup id=\"cite_ref-havo_25-0\" class=\"reference\"><a href=\"#cite_note-havo-25\">[23]</a></sup>",
+    "years": {
+      "base": 250000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-kKdb",
+    "startTimeInCompactUnits": 5.3979400086720375,
+    "easedStartTime": 9.283981330245394,
+    "cleanedContentHTML": "Lōʻihi, the youngest volcano in the Hawaiian–Emperor seamount chain, will rise above the surface of the ocean and become a new volcanic island.",
+    "skimmableContent": "Lōʻihi, the youngest volcano in the Hawaiian–Emperor seamount chain, will rise above the surface of the ocean and become a new volcanic island.",
+    "speakableContent": "Low eehee, the youngest volcano in the Hawaiian–Emperor seamount chain, will rise above the surface of the ocean and become a new volcanic island."
+  },
+  {
+    "yearsFromNow": "c. 300,000",
+    "contentHTML": "At some point in the next \"several\" hundred thousand years, the <a href=\"/wiki/Wolf%E2%80%93Rayet_star\" title=\"Wolf–Rayet star\">Wolf–Rayet star</a> <a href=\"/wiki/WR_104\" title=\"WR 104\">WR 104</a> is expected to explode in a <a href=\"/wiki/Supernova\" title=\"Supernova\">supernova</a>. It has been suggested that it may produce a <a href=\"/wiki/Gamma-ray_burst\" title=\"Gamma-ray burst\">gamma-ray burst</a> that could pose a threat to life on Earth should its poles be aligned 12° or lower towards Earth. The star's axis of rotation has yet to be determined with certainty.<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\">[24]</a></sup>",
+    "years": {
+      "base": 300000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-oTNP",
+    "startTimeInCompactUnits": 5.477121254719663,
+    "easedStartTime": 9.56592085249107,
+    "cleanedContentHTML": "At some point in the next \"several\" hundred thousand years, the Wolf–Rayet star WR 104 is expected to explode in a supernova. It has been suggested that it may produce a gamma-ray burst that could pose a threat to life on Earth should its poles be aligned 12° or lower towards Earth. The star's axis of rotation has yet to be determined with certainty.[24]",
+    "skimmableContent": "The Wolf–Rayet star WR 104 is expected to explode; it may produce a gamma-ray burst that could pose a threat to life on Earth."
+  },
+  {
+    "yearsFromNow": "500,000",
+    "contentHTML": "Earth will likely have been hit by an asteroid of roughly 1&nbsp;km in diameter, <a href=\"/wiki/Asteroid_impact_avoidance\" title=\"Asteroid impact avoidance\">assuming it cannot be averted</a>.<sup id=\"cite_ref-Bostrom_2002_27-0\" class=\"reference\"><a href=\"#cite_note-Bostrom_2002-27\">[25]</a></sup>",
+    "years": {
+      "base": 500000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-VHRY",
+    "startTimeInCompactUnits": 5.698970004336019,
+    "easedStartTime": 10.346601454795223,
+    "cleanedContentHTML": "Earth will likely have been hit by an asteroid of roughly 1 km in diameter, assuming it cannot be averted.[25]",
+    "skimmableContent": "Earth will likely have been hit by an asteroid of roughly 1 km in diameter."
+  },
+  {
+    "yearsFromNow": "500,000",
+    "contentHTML": "The rugged terrain of <a href=\"/wiki/Badlands_National_Park\" title=\"Badlands National Park\">Badlands National Park</a> in <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a> will have eroded away completely.<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\">[26]</a></sup>",
+    "years": {
+      "base": 500000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-DciZ",
+    "startTimeInCompactUnits": 5.698970004336019,
+    "easedStartTime": 10.346601454795223,
+    "cleanedContentHTML": "The rugged terrain of Badlands National Park in South Dakota will have eroded away completely.[26]",
+    "skimmableContent": "The rugged terrain of Badlands National Park in South Dakota will have eroded away completely."
+  },
+  {
+    "yearsFromNow": "950,000",
+    "contentHTML": "<a href=\"/wiki/Meteor_Crater\" title=\"Meteor Crater\">Meteor Crater</a>, a large <a href=\"/wiki/Impact_crater\" title=\"Impact crater\">impact crater</a> in Arizona considered the \"freshest\" of its kind, will have eroded away.<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\">[27]</a></sup>",
+    "years": {
+      "base": 950000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-TjbW",
+    "startTimeInCompactUnits": 5.977723605288848,
+    "easedStartTime": 11.30862599789441,
+    "cleanedContentHTML": "Meteor Crater, a large impact crater in Arizona considered the \"freshest\" of its kind, will have eroded away.[27]",
+    "skimmableContent": "Meteor Crater in Arizona will have eroded away."
+  },
+  {
+    "yearsFromNow": "1 million",
+    "contentHTML": "Highest estimated time until the <a href=\"/wiki/Red_supergiant_star\" title=\"Red supergiant star\">red supergiant star</a> <a href=\"/wiki/Betelgeuse\" title=\"Betelgeuse\">Betelgeuse</a> explodes in a <a href=\"/wiki/Supernova\" title=\"Supernova\">supernova</a>. The explosion is expected to be easily visible in daylight.<sup id=\"cite_ref-beteldeath_30-0\" class=\"reference\"><a href=\"#cite_note-beteldeath-30\">[28]</a></sup><sup id=\"cite_ref-betel_31-0\" class=\"reference\"><a href=\"#cite_note-betel-31\">[29]</a></sup> It may explode in as little as 100,000 years, if particular evolutionary models turn out to be correct.",
+    "years": {
+      "base": 1000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-EffI",
+    "startTimeInCompactUnits": 6,
+    "easedStartTime": 11.384615384615385,
+    "cleanedContentHTML": "The red supergiant star Betelgeuse explodes in a supernova. The explosion is expected to be easily visible in daylight.[28][29] It may explode in as little as 100,000 years, if particular evolutionary models turn out to be correct.",
+    "skimmableContent": "Highest estimated time until the red supergiant star Betelgeuse explodes."
+  },
+  {
+    "yearsFromNow": "1 million",
+    "contentHTML": "<a href=\"/wiki/Desdemona_(moon)\" title=\"Desdemona (moon)\">Desdemona</a> and <a href=\"/wiki/Cressida_(moon)\" title=\"Cressida (moon)\">Cressida</a>, moons of <a href=\"/wiki/Uranus\" title=\"Uranus\">Uranus</a>, will likely have collided.<sup id=\"cite_ref-Uranus_32-0\" class=\"reference\"><a href=\"#cite_note-Uranus-32\">[30]</a></sup>",
+    "years": {
+      "base": 1000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-bPbV",
+    "startTimeInCompactUnits": 6,
+    "easedStartTime": 11.384615384615385,
+    "cleanedContentHTML": "Desdemona and Cressida, moons of Uranus, will likely have collided.[30]",
+    "skimmableContent": "Desdemona and Cressida, moons of Uranus, will likely have collided."
+  },
+  {
+    "yearsFromNow": "2 million",
+    "contentHTML": "Estimated time for the recovery of <a href=\"/wiki/Coral_reef\" title=\"Coral reef\">coral reef</a> ecosystems from human-caused <a href=\"/wiki/Ocean_acidification\" title=\"Ocean acidification\">ocean acidification</a>; a similar time was taken for the recovery of marine ecosystems after the acidification event that occurred about 65 million years ago.<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\">[32]</a></sup>",
+    "years": {
+      "base": 2000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-Nwgx",
+    "startTimeInCompactUnits": 6.301029995663981,
+    "easedStartTime": 12.398868014680788,
+    "cleanedContentHTML": "Estimated time for the recovery of coral reef ecosystems from human-caused ocean acidification; a similar time was taken for the recovery of marine ecosystems after the acidification event that occurred about 65 million years ago.[32]",
+    "skimmableContent": "Estimated time for the recovery of coral reef ecosystems from human-caused ocean acidification."
+  },
+  {
+    "yearsFromNow": "2 million+",
+    "contentHTML": "The <a href=\"/wiki/Grand_Canyon\" title=\"Grand Canyon\">Grand Canyon</a> will erode further, deepening slightly, but principally widening into a broad valley surrounding the <a href=\"/wiki/Colorado_River\" title=\"Colorado River\">Colorado River</a>.<sup id=\"cite_ref-35\" class=\"reference\"><a href=\"#cite_note-35\">[33]</a></sup>",
+    "years": {
+      "base": 2000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-tkYx",
+    "startTimeInCompactUnits": 6.301029995663981,
+    "easedStartTime": 12.398868014680788,
+    "cleanedContentHTML": "The Grand Canyon will erode further, deepening slightly, but principally widening into a broad valley surrounding the Colorado River.[33]",
+    "skimmableContent": "The Grand Canyon will erode further widening into a broad valley."
+  },
+  {
+    "yearsFromNow": "10 million",
+    "contentHTML": "The widening <a href=\"/wiki/East_African_Rift\" title=\"East African Rift\">East African Rift</a> valley is flooded by the <a href=\"/wiki/Red_Sea\" title=\"Red Sea\">Red Sea</a>, causing a new ocean basin to divide the continent of <a href=\"/wiki/Africa\" title=\"Africa\">Africa</a><sup id=\"cite_ref-rift_37-0\" class=\"reference\"><a href=\"#cite_note-rift-37\">[35]</a></sup> and the <a href=\"/wiki/African_Plate\" title=\"African Plate\">African Plate</a> into the newly formed Nubian Plate and the <a href=\"/wiki/Somali_Plate\" title=\"Somali Plate\">Somali Plate</a>.",
+    "years": {
+      "base": 10000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-yqTm",
+    "startTimeInCompactUnits": 7,
+    "easedStartTime": 14.666666666666666,
+    "cleanedContentHTML": "The widening East African Rift valley is flooded by the Red Sea, causing a new ocean basin to divide the continent of Africa[35] and the African Plate into the newly formed Nubian Plate and the Somali Plate.",
+    "skimmableContent": "The widening East African Rift valley is flooded by the Red Sea, causing a new ocean basin to divide the continent of Africa."
+  },
+  {
+    "yearsFromNow": "10 million",
+    "contentHTML": "Estimated time for full recovery of <a href=\"/wiki/Biodiversity\" title=\"Biodiversity\">biodiversity</a> after a potential <a href=\"/wiki/Holocene_extinction\" title=\"Holocene extinction\">Holocene extinction</a>, if it were on the scale of the five previous <a href=\"/wiki/Extinction_event\" title=\"Extinction event\">major extinction events</a>.<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\">[36]</a></sup><p>Even without a mass extinction, by this time most current species will have disappeared through the <a href=\"/wiki/Background_extinction_rate\" title=\"Background extinction rate\">background extinction rate</a>, with many <a href=\"/wiki/Clade\" title=\"Clade\">clades</a> gradually evolving into new forms.<sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\">[37]</a></sup></p>",
+    "years": {
+      "base": 10000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-iTbh",
+    "startTimeInCompactUnits": 7,
+    "easedStartTime": 14.666666666666666,
+    "cleanedContentHTML": "Estimated time for full recovery of biodiversity after a potential Holocene extinction, if it were on the scale of the five previous major extinction events.[36]<p>Even without a mass extinction, by this time most current species will have disappeared through the background extinction rate, with many clades gradually evolving into new forms.[37]</p>",
+    "skimmableContent": "Estimated time for full recovery of biodiversity after a potential Holocene extinction."
+  },
+  {
+    "yearsFromNow": "10 to 1,000 million",
+    "contentHTML": "<a href=\"/wiki/Cupid_(moon)\" title=\"Cupid (moon)\">Cupid</a> and <a href=\"/wiki/Belinda_(moon)\" title=\"Belinda (moon)\">Belinda</a>, moons of <a href=\"/wiki/Uranus\" title=\"Uranus\">Uranus</a>, will likely have collided.<sup id=\"cite_ref-Uranus_32-1\" class=\"reference\"><a href=\"#cite_note-Uranus-32\">[30]</a></sup>",
+    "years": {
+      "base": 17500000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-isjh",
+    "startTimeInCompactUnits": 7.243038048686294,
+    "easedStartTime": 15.427934436588917,
+    "cleanedContentHTML": "Cupid and Belinda, moons of Uranus, will likely have collided.[30]",
+    "skimmableContent": "Cupid and Belinda, moons of Uranus, will likely have collided."
+  },
+  {
+    "yearsFromNow": "25 million",
+    "contentHTML": "According to <a href=\"/wiki/Christopher_R._Scotese\" class=\"mw-redirect\" title=\"Christopher R. Scotese\">Christopher R. Scotese</a>, the movement of the <a href=\"/wiki/San_Andreas_Fault\" title=\"San Andreas Fault\">San Andreas Fault</a> will cause the <a href=\"/wiki/Gulf_of_California\" title=\"Gulf of California\">Gulf of California</a> to flood into the <a href=\"/wiki/Central_Valley_(California)\" title=\"Central Valley (California)\">Central Valley</a>. This will form a new inland sea on the <a href=\"/wiki/West_Coast_of_the_United_States\" title=\"West Coast of the United States\">West Coast</a> of <a href=\"/wiki/North_America\" title=\"North America\">North America</a>.<sup id=\"cite_ref-scotese_40-0\" class=\"reference\"><a href=\"#cite_note-scotese-40\">[38]</a></sup>",
+    "years": {
+      "base": 25000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-FLzu",
+    "startTimeInCompactUnits": 7.3979400086720375,
+    "easedStartTime": 15.906086396614693,
+    "cleanedContentHTML": "According to Christopher R. Scotese, the movement of the San Andreas Fault will cause the Gulf of California to flood into the Central Valley. This will form a new inland sea on the West Coast of North America.[38]",
+    "skimmableContent": "The San Andreas Fault will create a new inland sea on the West Coast of North America."
+  },
+  {
+    "yearsFromNow": "50 million",
+    "contentHTML": "Maximum estimated time before the moon <a href=\"/wiki/Phobos_(moon)\" title=\"Phobos (moon)\">Phobos</a> collides with <a href=\"/wiki/Mars\" title=\"Mars\">Mars</a>.<sup id=\"cite_ref-Bills_41-0\" class=\"reference\"><a href=\"#cite_note-Bills-41\">[39]</a></sup>",
+    "years": {
+      "base": 50000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-kjla",
+    "startTimeInCompactUnits": 7.698970004336019,
+    "easedStartTime": 16.82001173186837,
+    "cleanedContentHTML": "Maximum estimated time before the moon Phobos collides with Mars.[39]",
+    "skimmableContent": "Maximum estimated time before the moon Phobos collides with Mars."
+  },
+  {
+    "yearsFromNow": "50 million",
+    "contentHTML": "According to Christopher R. Scotese, the movement of the <a href=\"/wiki/San_Andreas_Fault\" title=\"San Andreas Fault\">San Andreas Fault</a> will cause the current locations of Los Angeles and San Francisco to merge.<sup id=\"cite_ref-scotese_40-1\" class=\"reference\"><a href=\"#cite_note-scotese-40\">[38]</a></sup> The Californian coast will begin to be subducted into the <a href=\"/wiki/Aleutian_Trench\" title=\"Aleutian Trench\">Aleutian Trench</a>.<sup id=\"cite_ref-trench_42-0\" class=\"reference\"><a href=\"#cite_note-trench-42\">[40]</a></sup><p>Africa's collision with <a href=\"/wiki/Eurasia\" title=\"Eurasia\">Eurasia</a> closes the <a href=\"/wiki/Mediterranean_Basin\" title=\"Mediterranean Basin\">Mediterranean Basin</a> and creates a mountain range similar to the <a href=\"/wiki/Himalayas\" title=\"Himalayas\">Himalayas</a>.<sup id=\"cite_ref-medi_43-0\" class=\"reference\"><a href=\"#cite_note-medi-43\">[41]</a></sup></p><p>The <a href=\"/wiki/Appalachian_Mountains\" title=\"Appalachian Mountains\">Appalachian Mountains</a> peaks will largely erode away,<sup id=\"cite_ref-44\" class=\"reference\"><a href=\"#cite_note-44\">[42]</a></sup> weathering at 5.7 <a href=\"/wiki/Bubnoff_unit\" title=\"Bubnoff unit\">Bubnoff units</a>, although topography will actually rise as regional <a href=\"/wiki/Valley\" title=\"Valley\">valleys</a> deepen at twice this rate.<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\">[43]</a></sup></p>",
+    "years": {
+      "base": 50000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-TDas",
+    "startTimeInCompactUnits": 7.698970004336019,
+    "easedStartTime": 16.82001173186837,
+    "cleanedContentHTML": "According to Christopher R. Scotese, the movement of the San Andreas Fault will cause the current locations of Los Angeles and San Francisco to merge.[38] The Californian coast will begin to be subducted into the Aleutian Trench.[40]<p>Africa's collision with Eurasia closes the Mediterranean Basin and creates a mountain range similar to the Himalayas.[41]</p><p>The Appalachian Mountains peaks will largely erode away,[42] weathering at 5.7 Bubnoff units, although topography will actually rise as regional valleys deepen at twice this rate.[43]</p>",
+    "skimmableContent": "The San Andreas Fault will cause the current locations of Los Angeles and San Francisco to merge.Africa's collision with Eurasia closes the Mediterranean Basin and creates a mountain range similar to the Himalayas."
+  },
+  {
+    "yearsFromNow": "50–60 million",
+    "contentHTML": "The <a href=\"/wiki/Canadian_Rockies\" title=\"Canadian Rockies\">Canadian Rockies</a> will erode away to a plain, assuming a rate of 60 <a href=\"/wiki/Bubnoff_unit\" title=\"Bubnoff unit\">Bubnoff units</a>.<sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\">[44]</a></sup> The <a href=\"/wiki/Southern_Rocky_Mountains\" title=\"Southern Rocky Mountains\">Southern Rockies</a> in the United States are eroding at a somewhat slower rate.<sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\">[45]</a></sup>",
+    "years": {
+      "base": 55000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-Mdhj",
+    "startTimeInCompactUnits": 7.740362689494244,
+    "easedStartTime": 16.944128460419705,
+    "cleanedContentHTML": "The Canadian Rockies will erode away to a plain, assuming a rate of 60 Bubnoff units.[44] The Southern Rockies in the United States are eroding at a somewhat slower rate.[45]",
+    "skimmableContent": "The Canadian Rockies will erode away."
+  },
+  {
+    "yearsFromNow": "50–400 million",
+    "contentHTML": "Estimated time for Earth to naturally replenish its <a href=\"/wiki/Fossil_fuel\" title=\"Fossil fuel\">fossil fuel</a> reserves.<sup id=\"cite_ref-48\" class=\"reference\"><a href=\"#cite_note-48\">[46]</a></sup>",
+    "years": {
+      "base": 65000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-WkFj",
+    "startTimeInCompactUnits": 7.812913356642856,
+    "easedStartTime": 17.16078173990676,
+    "cleanedContentHTML": "Estimated time for Earth to naturally replenish its fossil fuel reserves.[46]",
+    "skimmableContent": "Estimated time for Earth to naturally replenish its fossil fuel reserves."
+  },
+  {
+    "yearsFromNow": "80 million",
+    "contentHTML": "The <a href=\"/wiki/Hawaii_(island)\" title=\"Hawaii (island)\">Big Island</a> will have become the last of the current <a href=\"/wiki/Hawaiian_Islands\" title=\"Hawaiian Islands\">Hawaiian Islands</a> to sink beneath the surface of the ocean, while a more recently formed chain of \"new Hawaiian Islands\" will then have emerged in their place.<sup id=\"cite_ref-49\" class=\"reference\"><a href=\"#cite_note-49\">[47]</a></sup>",
+    "years": {
+      "base": 80000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-YcHN",
+    "startTimeInCompactUnits": 7.903089986991944,
+    "easedStartTime": 17.428499815823454,
+    "cleanedContentHTML": "The Big Island will have become the last of the current Hawaiian Islands to sink beneath the surface of the ocean, while a more recently formed chain of \"new Hawaiian Islands\" will then have emerged in their place.[47]",
+    "skimmableContent": "The Big Island will have become the last of the current Hawaiian Islands to sink."
+  },
+  {
+    "yearsFromNow": "100 million",
+    "contentHTML": "Earth will likely have been hit by an asteroid comparable in size to the one that triggered the <a href=\"/wiki/Cretaceous%E2%80%93Paleogene_extinction_event\" title=\"Cretaceous–Paleogene extinction event\">K–Pg extinction</a> 66 million years ago, <a href=\"/wiki/Asteroid-impact_avoidance\" class=\"mw-redirect\" title=\"Asteroid-impact avoidance\">assuming it cannot be averted</a>.<sup id=\"cite_ref-kpg1_50-0\" class=\"reference\"><a href=\"#cite_note-kpg1-50\">[48]</a></sup>",
+    "years": {
+      "base": 100000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-bafq",
+    "startTimeInCompactUnits": 8,
+    "easedStartTime": 17.714285714285715,
+    "cleanedContentHTML": "Earth will likely have been hit by an asteroid comparable in size to the one that triggered the K–Pg extinction 66 million years ago, assuming it cannot be averted.[48]",
+    "skimmableContent": "Earth will likely have been hit by an asteroid comparable in size to the one that triggered the K–Pg extinction 66 million years ago."
+  },
+  {
+    "yearsFromNow": "100 million",
+    "contentHTML": "Upper estimate for lifespan of the <a href=\"/wiki/Rings_of_Saturn\" title=\"Rings of Saturn\">rings of Saturn</a> in their current state.<sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\">[49]</a></sup>",
+    "years": {
+      "base": 100000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-JkCa",
+    "startTimeInCompactUnits": 8,
+    "easedStartTime": 17.714285714285715,
+    "cleanedContentHTML": "Upper estimate for lifespan of the rings of Saturn in their current state.[49]",
+    "skimmableContent": "The rings of Saturn will fall apart."
+  },
+  {
+    "yearsFromNow": "110 million",
+    "contentHTML": "The Sun's luminosity has increased by 1%.<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\">[50]</a></sup>",
+    "years": {
+      "base": 110000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-BjSI",
+    "startTimeInCompactUnits": 8.041392685158225,
+    "easedStartTime": 17.835749961896035,
+    "cleanedContentHTML": "The Sun's luminosity has increased by 1%.[50]",
+    "skimmableContent": "The Sun's luminosity will increase by 1%."
+  },
+  {
+    "yearsFromNow": "240 million",
+    "contentHTML": "From its present position, the <a href=\"/wiki/Solar_System\" title=\"Solar System\">Solar System</a> completes <a href=\"/wiki/Galactic_year\" title=\"Galactic year\">one full orbit</a> of the <a href=\"/wiki/Galactic_center\" class=\"mw-redirect\" title=\"Galactic center\">Galactic center</a>.<sup id=\"cite_ref-galyear_55-0\" class=\"reference\"><a href=\"#cite_note-galyear-55\">[53]</a></sup>",
+    "years": {
+      "base": 240000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-Kmiu",
+    "startTimeInCompactUnits": 8.380211241711606,
+    "easedStartTime": 18.81667192759605,
+    "cleanedContentHTML": "From its present position, the Solar System completes one full orbit of the Galactic center.[53]",
+    "skimmableContent": "The Solar System completes one full orbit of the Galactic center."
+  },
+  {
+    "yearsFromNow": "250 million",
+    "contentHTML": "According to Christopher R. Scotese, due to the northward movement of the West Coast of North America, the coast of California will collide with Alaska.<sup id=\"cite_ref-scotese_40-3\" class=\"reference\"><a href=\"#cite_note-scotese-40\">[38]</a></sup>",
+    "years": {
+      "base": 250000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-tNdY",
+    "startTimeInCompactUnits": 8.397940008672037,
+    "easedStartTime": 18.86735448781092,
+    "cleanedContentHTML": "According to Christopher R. Scotese, due to the northward movement of the West Coast of North America, the coast of California will collide with Alaska.[38]",
+    "skimmableContent": "The coast of California will collide with Alaska."
+  },
+  {
+    "yearsFromNow": "~250 million",
+    "contentHTML": "Rapid <a href=\"/wiki/Biological_evolution\" class=\"mw-redirect\" title=\"Biological evolution\">biological evolution</a> may occur due to the formation of a supercontinent, causing lower temperatures and higher oxygen levels.<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\">[57]</a></sup>",
+    "years": {
+      "base": 250000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-EhBu",
+    "startTimeInCompactUnits": 8.397940008672037,
+    "easedStartTime": 18.86735448781092,
+    "cleanedContentHTML": "Rapid biological evolution may occur due to the formation of a supercontinent, causing lower temperatures and higher oxygen levels.[57]",
+    "skimmableContent": "Rapid biological evolution may occur due to the formation of a supercontinent."
+  },
+  {
+    "yearsFromNow": "250–350 million",
+    "contentHTML": "All the continents on Earth may fuse into a <a href=\"/wiki/Supercontinent\" title=\"Supercontinent\">supercontinent</a>. Three potential arrangements of this configuration have been dubbed <a href=\"/wiki/Amasia_(continent)\" title=\"Amasia (continent)\">Amasia</a>, <a href=\"/wiki/Novopangaea\" title=\"Novopangaea\">Novopangaea</a>, and <a href=\"/wiki/Pangaea_Ultima\" title=\"Pangaea Ultima\">Pangaea Ultima</a>.<sup id=\"cite_ref-scotese_40-4\" class=\"reference\"><a href=\"#cite_note-scotese-40\">[38]</a></sup><sup id=\"cite_ref-Williams_Nield_2007_56-0\" class=\"reference\"><a href=\"#cite_note-Williams_Nield_2007-56\">[54]</a></sup> This will likely result in a glacial period, lowering sea levels and increasing oxygen levels, further lowering global temperatures.<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\">[55]</a></sup><sup id=\"cite_ref-58\" class=\"reference\"><a href=\"#cite_note-58\">[56]</a></sup>",
+    "years": {
+      "base": 300000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-SSGb",
+    "startTimeInCompactUnits": 8.477121254719663,
+    "easedStartTime": 19.092945547712414,
+    "cleanedContentHTML": "All the continents on Earth may fuse into a supercontinent. Three potential arrangements of this configuration have been dubbed Amasia, Novopangaea, and Pangaea Ultima.[38][54] This will likely result in a glacial period, lowering sea levels and increasing oxygen levels, further lowering global temperatures.[55][56]",
+    "skimmableContent": "All the continents on Earth may fuse into a supercontinent."
+  },
+  {
+    "yearsFromNow": "300–600 million",
+    "contentHTML": "Estimated time for <a href=\"/wiki/Venus\" title=\"Venus\">Venus</a>'s mantle temperature to reach its maximum. Then, over a period of about 100 million years, major subduction occurs and the crust is recycled.<sup id=\"cite_ref-Strom1994_60-0\" class=\"reference\"><a href=\"#cite_note-Strom1994-60\">[58]</a></sup>",
+    "years": {
+      "base": 325000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-GMTf",
+    "startTimeInCompactUnits": 8.511883360978874,
+    "easedStartTime": 19.19158861482875,
+    "cleanedContentHTML": "Estimated time for Venus's mantle temperature to reach its maximum. Then, over a period of about 100 million years, major subduction occurs and the crust is recycled.[58]",
+    "skimmableContent": "Estimated time for Venus's mantle temperature to reach its maximum."
+  },
+  {
+    "yearsFromNow": "350 million",
+    "contentHTML": "According to the extroversion model, first developed by <a href=\"/wiki/Paul_F._Hoffman\" title=\"Paul F. Hoffman\">Paul F. Hoffman</a> the <a href=\"/wiki/Pacific_ocean\" class=\"mw-redirect\" title=\"Pacific ocean\">Pacific Ocean</a> will close completely.<sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\">[59]</a></sup><sup id=\"cite_ref-62\" class=\"reference\"><a href=\"#cite_note-62\">[60]</a></sup><sup id=\"cite_ref-Williams_Nield_2007_56-1\" class=\"reference\"><a href=\"#cite_note-Williams_Nield_2007-56\">[54]</a></sup>",
+    "years": {
+      "base": 350000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-rRha",
+    "startTimeInCompactUnits": 8.544068044350276,
+    "easedStartTime": 19.28270362794239,
+    "cleanedContentHTML": "According to the extroversion model, first developed by Paul F. Hoffman the Pacific Ocean will close completely.[59][60][54]",
+    "skimmableContent": "The Pacific Ocean will be gone."
+  },
+  {
+    "yearsFromNow": "400–500 million",
+    "contentHTML": "The supercontinent (Pangaea Ultima, Novopangaea, or Amasia) will likely have rifted apart.<sup id=\"cite_ref-Williams_Nield_2007_56-2\" class=\"reference\"><a href=\"#cite_note-Williams_Nield_2007-56\">[54]</a></sup> This will likely result in higher global temperatures, similar to the <a href=\"/wiki/Cretaceous_period\" class=\"mw-redirect\" title=\"Cretaceous period\">Cretaceous period</a>.<sup id=\"cite_ref-63\" class=\"reference\"><a href=\"#cite_note-63\">[61]</a></sup>",
+    "years": {
+      "base": 400000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-gWSt",
+    "startTimeInCompactUnits": 8.602059991327963,
+    "easedStartTime": 19.44636153135249,
+    "cleanedContentHTML": "The supercontinent (Pangaea Ultima, Novopangaea, or Amasia) will likely have rifted apart.[54] This will likely result in higher global temperatures, similar to the Cretaceous period.[61]",
+    "skimmableContent": "The supercontinent will likely have rifted apart."
+  },
+  {
+    "yearsFromNow": "500 million",
+    "contentHTML": "Estimated time until a <a href=\"/wiki/Gamma-ray_burst\" title=\"Gamma-ray burst\">gamma-ray burst</a>, or massive, hyperenergetic supernova, occurs within 6,500 light-years of Earth; close enough for its rays to affect Earth's <a href=\"/wiki/Ozone_layer\" title=\"Ozone layer\">ozone layer</a> and potentially trigger a <a href=\"/wiki/Extinction_event\" title=\"Extinction event\">mass extinction</a>, assuming the hypothesis is correct that a previous such explosion triggered the <a href=\"/wiki/Ordovician%E2%80%93Silurian_extinction_events\" title=\"Ordovician–Silurian extinction events\">Ordovician–Silurian extinction event</a>. However, the supernova would have to be precisely oriented relative to Earth to have any negative effect.<sup id=\"cite_ref-natgeo_64-0\" class=\"reference\"><a href=\"#cite_note-natgeo-64\">[62]</a></sup>",
+    "years": {
+      "base": 500000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-KmRd",
+    "startTimeInCompactUnits": 8.698970004336019,
+    "easedStartTime": 19.718373180225726,
+    "cleanedContentHTML": "Estimated time until a gamma-ray burst, or massive, hyperenergetic supernova, occurs within 6,500 light-years of Earth; close enough for its rays to affect Earth's ozone layer and potentially trigger a mass extinction, assuming the hypothesis is correct that a previous such explosion triggered the Ordovician–Silurian extinction event. However, the supernova would have to be precisely oriented relative to Earth to have any negative effect.[62]",
+    "skimmableContent": "A gamma-ray burst, or massive, hyperenergetic supernova, occurs within 6,500 light-years of Earth, potentially triggering a mass extinction."
+  },
+  {
+    "yearsFromNow": "600 million",
+    "contentHTML": "<a href=\"/wiki/Tidal_acceleration\" title=\"Tidal acceleration\">Tidal acceleration</a> moves the <a href=\"/wiki/Moon\" title=\"Moon\">Moon</a> far enough from Earth that total <a href=\"/wiki/Solar_eclipse\" title=\"Solar eclipse\">solar eclipses</a> are no longer possible.<sup id=\"cite_ref-600mil_65-0\" class=\"reference\"><a href=\"#cite_note-600mil-65\">[63]</a></sup>",
+    "years": {
+      "base": 600000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-dYim",
+    "startTimeInCompactUnits": 8.778151250383644,
+    "easedStartTime": 19.93926295146269,
+    "cleanedContentHTML": "Tidal acceleration moves the Moon far enough from Earth that total solar eclipses are no longer possible.[63]",
+    "skimmableContent": "Tidal acceleration moves the Moon far enough from Earth that total solar eclipses are no longer possible."
+  },
+  {
+    "yearsFromNow": "600 million",
+    "contentHTML": "The Sun's increasing luminosity begins to disrupt the <a href=\"/wiki/Carbonate%E2%80%93silicate_cycle\" title=\"Carbonate–silicate cycle\">carbonate–silicate cycle</a>; higher luminosity increases <a href=\"/wiki/Weathering\" title=\"Weathering\">weathering</a> of surface rocks, which traps <a href=\"/wiki/Carbon_dioxide\" title=\"Carbon dioxide\">carbon dioxide</a> in the ground as carbonate. As water evaporates from the Earth's surface, rocks harden, causing <a href=\"/wiki/Plate_tectonics\" title=\"Plate tectonics\">plate tectonics</a> to slow and eventually stop. Without volcanoes to recycle carbon into the Earth's atmosphere, carbon dioxide levels begin to fall.<sup id=\"cite_ref-swansong_66-0\" class=\"reference\"><a href=\"#cite_note-swansong-66\">[64]</a></sup> By this time, carbon dioxide levels will fall to the point at which <a href=\"/wiki/C3_carbon_fixation\" title=\"C3 carbon fixation\">C<sub>3</sub> photosynthesis</a> is no longer possible. All plants that utilize C<sub>3</sub> photosynthesis (≈99 percent of present-day species) will die.<sup id=\"cite_ref-Heath_Doyle_2009_67-0\" class=\"reference\"><a href=\"#cite_note-Heath_Doyle_2009-67\">[65]</a></sup>",
+    "years": {
+      "base": 600000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-qvJH",
+    "startTimeInCompactUnits": 8.778151250383644,
+    "easedStartTime": 19.93926295146269,
+    "cleanedContentHTML": "The Sun's increasing luminosity begins to disrupt the carbonate–silicate cycle; higher luminosity increases weathering of surface rocks, which traps carbon dioxide in the ground as carbonate. As water evaporates from the Earth's surface, rocks harden, causing plate tectonics to slow and eventually stop. Without volcanoes to recycle carbon into the Earth's atmosphere, carbon dioxide levels begin to fall.[64] By this time, carbon dioxide levels will fall to the point at which C3 photosynthesis is no longer possible. All plants that utilize C3 photosynthesis (≈99 percent of present-day species) will die.[65]",
+    "skimmableContent": "Carbon dioxide levels will fall to the point at which C3 photosynthesis is no longer possible. Approximately 99 percent of present-day species of plants will die."
+  },
+  {
+    "yearsFromNow": "700–800 million",
+    "contentHTML": "The death of most <a href=\"/wiki/Plant_life\" class=\"mw-redirect\" title=\"Plant life\">plant life</a> will result in less <a href=\"/wiki/Oxygen\" title=\"Oxygen\">oxygen</a> in the <a href=\"/wiki/Atmosphere\" title=\"Atmosphere\">atmosphere</a>, allowing for more <a href=\"/wiki/DNA\" title=\"DNA\">DNA</a>-damaging <a href=\"/wiki/Ultraviolet_radiation\" class=\"mw-redirect\" title=\"Ultraviolet radiation\">ultraviolet radiation</a> to reach the surface. The rising temperatures will increase chemical reactions in the atmosphere, further lowering oxygen levels. Flying animals would be better off because of their ability to travel large distances looking for cooler temperatures.<sup id=\"cite_ref-68\" class=\"reference\"><a href=\"#cite_note-68\">[66]</a></sup> Many animals may be driven to the poles or possibly underground. These creatures would become active during the <a href=\"/wiki/Polar_night\" title=\"Polar night\">polar night</a> and hibernate during the <a href=\"/wiki/Polar_day\" class=\"mw-redirect\" title=\"Polar day\">polar day</a> due to the intense heat and radiation. Much of the land would become a barren desert, and plants and animals would primarily be found in the oceans.<sup id=\"cite_ref-69\" class=\"reference\"><a href=\"#cite_note-69\">[67]</a></sup>",
+    "years": {
+      "base": 700000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-fZQb",
+    "startTimeInCompactUnits": 8.845098040014257,
+    "easedStartTime": 20.125076475598583,
+    "cleanedContentHTML": "The death of most plant life will result in less oxygen in the atmosphere, allowing for more DNA-damaging ultraviolet radiation to reach the surface. The rising temperatures will increase chemical reactions in the atmosphere, further lowering oxygen levels. Flying animals would be better off because of their ability to travel large distances looking for cooler temperatures.[66] Many animals may be driven to the poles or possibly underground. These creatures would become active during the polar night and hibernate during the polar day due to the intense heat and radiation. Much of the land would become a barren desert, and plants and animals would primarily be found in the oceans.[67]",
+    "skimmableContent": "The death of most plant life will result in less oxygen in the atmosphere, allowing for more DNA-damaging ultraviolet radiation to reach the surface.  Much of the land will become a barren desert."
+  },
+  {
+    "yearsFromNow": "800 million",
+    "contentHTML": "Carbon dioxide levels fall to the point at which <a href=\"/wiki/C4_carbon_fixation\" title=\"C4 carbon fixation\">C<sub>4</sub> photosynthesis</a> is no longer possible.<sup id=\"cite_ref-Heath_Doyle_2009_67-1\" class=\"reference\"><a href=\"#cite_note-Heath_Doyle_2009-67\">[65]</a></sup> Without plant life to recycle oxygen in the atmosphere, free oxygen and the ozone layer will disappear from the atmosphere allowing for intense levels of deadly UV light to reach the surface. In the book <i>The Life and Death of Planet Earth</i>, authors <a href=\"/wiki/Peter_D._Ward\" class=\"mw-redirect\" title=\"Peter D. Ward\">Peter D. Ward</a> and <a href=\"/wiki/Donald_Brownlee\" class=\"mw-redirect\" title=\"Donald Brownlee\">Donald Brownlee</a> stated that some animal life may be able to survive in the oceans. Eventually, however, all multicellular life will die out.<sup id=\"cite_ref-bd2_6_1665_70-0\" class=\"reference\"><a href=\"#cite_note-bd2_6_1665-70\">[68]</a></sup> The only life left on the Earth after this will be single-celled organisms.",
+    "years": {
+      "base": 800000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-FJXe",
+    "startTimeInCompactUnits": 8.903089986991944,
+    "easedStartTime": 20.285339697695548,
+    "cleanedContentHTML": "Carbon dioxide levels fall to the point at which C4 photosynthesis is no longer possible.[65] Without plant life to recycle oxygen in the atmosphere, free oxygen and the ozone layer will disappear from the atmosphere allowing for intense levels of deadly UV light to reach the surface. In the book <i>The Life and Death of Planet Earth</i>, authors Peter D. Ward and Donald Brownlee stated that some animal life may be able to survive in the oceans. Eventually, however, all multicellular life will die out.[68] The only life left on the Earth after this will be single-celled organisms.",
+    "skimmableContent": "The only life left on the Earth after this will be single-celled organisms."
+  },
+  {
+    "yearsFromNow": "1 billion",
+    "contentHTML": "27% of the ocean's mass will have been subducted into the mantle. If this were to continue uninterrupted, it would reach an equilibrium where 65% of the surface water would remain at the surface.<sup id=\"cite_ref-hess5_4_569_72-0\" class=\"reference\"><a href=\"#cite_note-hess5_4_569-72\">[69]</a></sup>",
+    "years": {
+      "base": 1000000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-NmEe",
+    "startTimeInCompactUnits": 9,
+    "easedStartTime": 20.551724137931036,
+    "cleanedContentHTML": "27% of the ocean's mass will have been subducted into the mantle. If this were to continue uninterrupted, it would reach an equilibrium where 65% of the surface water would remain at the surface.[69]",
+    "skimmableContent": "27% of the ocean's mass will have been subducted into the mantle."
+  },
+  {
+    "yearsFromNow": "1.1 billion",
+    "contentHTML": "The Sun's luminosity has risen by 10%, causing Earth's surface temperatures to reach an average of c. 320&nbsp;K (47&nbsp;°C; 116&nbsp;°F). The atmosphere will become a \"moist greenhouse\", resulting in a runaway evaporation of the oceans.<sup id=\"cite_ref-swansong_66-1\" class=\"reference\"><a href=\"#cite_note-swansong-66\">[64]</a></sup><sup id=\"cite_ref-mnras386_1_73-0\" class=\"reference\"><a href=\"#cite_note-mnras386_1-73\">[70]</a></sup> This would cause plate tectonics to stop completely, if not already stopped before this time.<sup id=\"cite_ref-FOOTNOTEBrownlee201095_74-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEBrownlee201095-74\">[71]</a></sup> Pockets of water may still be present at the poles, allowing abodes for simple life.<sup id=\"cite_ref-abode_75-0\" class=\"reference\"><a href=\"#cite_note-abode-75\">[72]</a></sup><sup id=\"cite_ref-pressure_76-0\" class=\"reference\"><a href=\"#cite_note-pressure-76\">[73]</a></sup>",
+    "years": {
+      "base": 1100000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-MAMN",
+    "startTimeInCompactUnits": 9.041392685158225,
+    "easedStartTime": 20.664961733137794,
+    "cleanedContentHTML": "The Sun's luminosity has risen by 10%, causing Earth's surface temperatures to reach an average of c. 320 K (47 °C; 116 °F). The atmosphere will become a \"moist greenhouse\", resulting in a runaway evaporation of the oceans. This would cause plate tectonics to stop completely, if not already stopped before this time. Pockets of water may still be present at the poles, allowing abodes for simple life.",
+    "skimmableContent": "The Sun's luminosity has risen by 10%, causing Earth's surface temperatures to reach an average of 320 Kelvin (or 47 degrees Celsius or 116 degrees Fahrenheit). Pockets of water may still be present at the poles, allowing abodes for simple life."
+  },
+  {
+    "yearsFromNow": "1.3 billion",
+    "contentHTML": "<a href=\"/wiki/Eukaryote\" title=\"Eukaryote\">Eukaryotic</a> life dies out on Earth due to carbon dioxide starvation. Only <a href=\"/wiki/Prokaryote\" title=\"Prokaryote\">prokaryotes</a> remain.<sup id=\"cite_ref-bd2_6_1665_70-1\" class=\"reference\"><a href=\"#cite_note-bd2_6_1665-70\">[68]</a></sup>",
+    "years": {
+      "base": 1300000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-kOYo",
+    "startTimeInCompactUnits": 9.113943352306837,
+    "easedStartTime": 20.86266116137637,
+    "cleanedContentHTML": "Eukaryotic life dies out on Earth due to carbon dioxide starvation. Only prokaryotes remain.[68]",
+    "skimmableContent": "Eukaryotic life dies out on Earth due to carbon dioxide starvation. Only prokaryotes remain."
+  },
+  {
+    "yearsFromNow": "1.5–1.6 billion",
+    "contentHTML": "The Sun's rising luminosity causes its <a href=\"/wiki/Circumstellar_habitable_zone\" title=\"Circumstellar habitable zone\">circumstellar habitable zone</a> to move outwards; as <a href=\"/wiki/Carbon_dioxide\" title=\"Carbon dioxide\">carbon dioxide</a> rises in <a href=\"/wiki/Mars\" title=\"Mars\">Mars</a>'s atmosphere, its surface temperature rises to levels akin to Earth during the <a href=\"/wiki/Ice_age\" title=\"Ice age\">ice age</a>.<sup id=\"cite_ref-bd2_6_1665_70-2\" class=\"reference\"><a href=\"#cite_note-bd2_6_1665-70\">[68]</a></sup><sup id=\"cite_ref-mars_80-0\" class=\"reference\"><a href=\"#cite_note-mars-80\">[77]</a></sup>",
+    "years": {
+      "base": 1500000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-LQNY",
+    "startTimeInCompactUnits": 9.176091259055681,
+    "easedStartTime": 21.031231375625616,
+    "cleanedContentHTML": "The Sun's rising luminosity causes its circumstellar habitable zone to move outwards; as carbon dioxide rises in Mars's atmosphere, its surface temperature rises to levels akin to Earth during the ice age.[68][77]",
+    "skimmableContent": "Mars's surface temperature rises to levels akin to Earth during the ice age."
+  },
+  {
+    "yearsFromNow": "2 billion",
+    "contentHTML": "High estimate until the Earth's oceans evaporate if the atmospheric pressure were to decrease via the <a href=\"/wiki/Nitrogen_cycle\" title=\"Nitrogen cycle\">nitrogen cycle</a>.<sup id=\"cite_ref-pnas106_24_81-0\" class=\"reference\"><a href=\"#cite_note-pnas106_24-81\">[78]</a></sup>",
+    "years": {
+      "base": 2000000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-AtPG",
+    "startTimeInCompactUnits": 9.301029995663981,
+    "easedStartTime": 21.36795189995198,
+    "cleanedContentHTML": "High estimate until the Earth's oceans evaporate if the atmospheric pressure were to decrease via the nitrogen cycle.[78]",
+    "skimmableContent": "Earth's oceans evaporate."
+  },
+  {
+    "yearsFromNow": "2.3 billion",
+    "contentHTML": "The Earth's <a href=\"/wiki/Outer_core\" class=\"mw-redirect\" title=\"Outer core\">outer core</a> freezes, if the <a href=\"/wiki/Inner_core\" class=\"mw-redirect\" title=\"Inner core\">inner core</a> continues to grow at its current rate of 1&nbsp;mm (0.039&nbsp;in) per year.<sup id=\"cite_ref-ng4_264_82-0\" class=\"reference\"><a href=\"#cite_note-ng4_264-82\">[79]</a></sup><sup id=\"cite_ref-compo_83-0\" class=\"reference\"><a href=\"#cite_note-compo-83\">[80]</a></sup> Without its liquid outer core, the <a href=\"/wiki/Earth%27s_magnetic_field\" title=\"Earth's magnetic field\">Earth's magnetic field</a> shuts down,<sup id=\"cite_ref-magnet_84-0\" class=\"reference\"><a href=\"#cite_note-magnet-84\">[81]</a></sup> and charged particles emanating from the <a href=\"/wiki/Sun\" title=\"Sun\">Sun</a> gradually deplete the atmosphere.<sup id=\"cite_ref-85\" class=\"reference\"><a href=\"#cite_note-85\">[82]</a></sup>",
+    "years": {
+      "base": 2300000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-Auxw",
+    "startTimeInCompactUnits": 9.361727836017593,
+    "easedStartTime": 21.53050348849983,
+    "cleanedContentHTML": "The Earth's outer core freezes, if the inner core continues to grow at its current rate of 1 mm (0.039 in) per year.[79][80] Without its liquid outer core, the Earth's magnetic field shuts down,[81] and charged particles emanating from the Sun gradually deplete the atmosphere.[82]",
+    "skimmableContent": "The Earth's outer core freezes. Without its liquid outer core, the Earth's magnetic field shuts down, and charged particles emanating from the Sun gradually deplete the atmosphere."
+  },
+  {
+    "yearsFromNow": "2.55 billion",
+    "contentHTML": "The Sun will have reached a maximum surface temperature of 5,820 K. From then on, it will become gradually cooler while its luminosity will continue to increase.<sup id=\"cite_ref-mnras386_1_73-1\" class=\"reference\"><a href=\"#cite_note-mnras386_1-73\">[70]</a></sup>",
+    "years": {
+      "base": 2550000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-pBcr",
+    "startTimeInCompactUnits": 9.406540180433955,
+    "easedStartTime": 21.650082401295272,
+    "cleanedContentHTML": "The Sun will have reached a maximum surface temperature of 5,820 K. From then on, it will become gradually cooler while its luminosity will continue to increase.[70]",
+    "skimmableContent": "The Sun will have reached a maximum surface temperature of 5,820 Kelvin. From then on, it will become gradually cooler while its luminosity will continue to increase."
+  },
+  {
+    "yearsFromNow": "2.8 billion",
+    "contentHTML": "Earth's surface temperature reaches c. 420&nbsp;K (147&nbsp;°C; 296&nbsp;°F), even at the poles. At this point, all life, now reduced to unicellular colonies in isolated, scattered microenvironments such as high-altitude lakes or subsurface caves, will go extinct.<sup id=\"cite_ref-swansong_66-2\" class=\"reference\"><a href=\"#cite_note-swansong-66\">[64]</a></sup><sup id=\"cite_ref-global1_86-0\" class=\"reference\"><a href=\"#cite_note-global1-86\">[83]</a></sup>",
+    "years": {
+      "base": 2800000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-bctp",
+    "startTimeInCompactUnits": 9.44715803134222,
+    "easedStartTime": 21.758154129925646,
+    "cleanedContentHTML": "Earth's surface temperature reaches c. 420 K (147 °C; 296 °F), even at the poles. At this point, all life, now reduced to unicellular colonies in isolated, scattered microenvironments such as high-altitude lakes or subsurface caves, will go extinct.[64][83]",
+    "skimmableContent": "Earth's surface temperature reaches 420 Kelvin or 147 degrees celsius or 296 degrees fahrenheit, even at the poles. All life, now reduced to unicellular colonies in isolated, scattered microenvironments such as high-altitude lakes or subsurface caves, will go extinct."
+  },
+  {
+    "yearsFromNow": "c. 3 billion",
+    "contentHTML": "There is a roughly 1-in-100,000 chance that the Earth might be ejected into interstellar space by a stellar encounter before this point, and a 1-in-3-million chance that it will then be captured by another star. Were this to happen, life, assuming it survived the interstellar journey, could potentially continue for far longer.<sup id=\"cite_ref-FOOTNOTEAdams200833–44_87-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEAdams200833–44-87\">[84]</a></sup>",
+    "years": {
+      "base": 3000000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-uXtT",
+    "startTimeInCompactUnits": 9.477121254719663,
+    "easedStartTime": 21.83768624858168,
+    "cleanedContentHTML": "There is a roughly 1-in-100,000 chance that the Earth might be ejected into interstellar space by a stellar encounter before this point, and a 1-in-3-million chance that it will then be captured by another star. Were this to happen, life, assuming it survived the interstellar journey, could potentially continue for far longer.[84]",
+    "skimmableContent": "There is a roughly 1-in-100,000 chance that the Earth might be ejected into interstellar space by a stellar encounter before this point, and a 1-in-3-million chance that it will then be captured by another star."
+  },
+  {
+    "yearsFromNow": "3 billion",
+    "contentHTML": "<a href=\"/wiki/Median\" title=\"Median\">Median</a> point at which the Moon's rising distance from the Earth lessens its stabilising effect on the Earth's <a href=\"/wiki/Axial_tilt\" title=\"Axial tilt\">axial tilt</a>. As a consequence, Earth's <a href=\"/wiki/True_polar_wander\" title=\"True polar wander\">true polar wander</a> becomes chaotic and extreme, leading to dramatic shifts in the planet's climate due to the changing axial tilt.<sup id=\"cite_ref-wander_88-0\" class=\"reference\"><a href=\"#cite_note-wander-88\">[85]</a></sup>",
+    "years": {
+      "base": 3000000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-Ctyq",
+    "startTimeInCompactUnits": 9.477121254719663,
+    "easedStartTime": 21.83768624858168,
+    "cleanedContentHTML": "Median point at which the Moon's rising distance from the Earth lessens its stabilising effect on the Earth's axial tilt. As a consequence, Earth's true polar wander becomes chaotic and extreme, leading to dramatic shifts in the planet's climate due to the changing axial tilt.[85]",
+    "skimmableContent": "Median point at which the Moon's rising distance from the Earth lessens its stabilising effect on the Earth's axial tilt. As a consequence, Earth's true polar wander becomes chaotic and extreme"
+  },
+  {
+    "yearsFromNow": "3.3 billion",
+    "contentHTML": "1% chance that <a href=\"/wiki/Jupiter\" title=\"Jupiter\">Jupiter</a>'s gravity may make <a href=\"/wiki/Mercury_(planet)\" title=\"Mercury (planet)\">Mercury</a>'s orbit so <a href=\"/wiki/Orbital_eccentricity\" title=\"Orbital eccentricity\">eccentric</a> as to collide with <a href=\"/wiki/Venus\" title=\"Venus\">Venus</a>, sending the inner Solar System into chaos. Possible scenarios include Mercury colliding with the Sun, being ejected from the Solar System, or colliding with Earth.<sup id=\"cite_ref-chaos_89-0\" class=\"reference\"><a href=\"#cite_note-chaos-89\">[86]</a></sup>",
+    "years": {
+      "base": 3300000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-iCSD",
+    "startTimeInCompactUnits": 9.518513939877888,
+    "easedStartTime": 21.947290277122562,
+    "cleanedContentHTML": "1% chance that Jupiter's gravity may make Mercury's orbit so eccentric as to collide with Venus, sending the inner Solar System into chaos. Possible scenarios include Mercury colliding with the Sun, being ejected from the Solar System, or colliding with Earth.[86]",
+    "skimmableContent": "There is a 1% chance that Jupiter's gravity may make Mercury's orbit so eccentric as to collide with Venus, sending the inner Solar System into chaos."
+  },
+  {
+    "yearsFromNow": "3.5–4.5 billion",
+    "contentHTML": "All water currently present in oceans (if not lost earlier) evaporates. The <a href=\"/wiki/Greenhouse_effect\" title=\"Greenhouse effect\">greenhouse effect</a> caused by the massive, water-rich atmosphere, combined with the Sun's luminosity reaching roughly 35–40% above its present value, will result in Earth's surface temperature rising to 1,400&nbsp;K (1,130&nbsp;°C; 2,060&nbsp;°F), which is hot enough to melt some surface rock.<sup id=\"cite_ref-FOOTNOTEBrownlee201095_74-1\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEBrownlee201095-74\">[71]</a></sup><sup id=\"cite_ref-pnas106_24_81-1\" class=\"reference\"><a href=\"#cite_note-pnas106_24-81\">[78]</a></sup><sup id=\"cite_ref-guinan_ribas_90-0\" class=\"reference\"><a href=\"#cite_note-guinan_ribas-90\">[87]</a></sup><sup id=\"cite_ref-icarus74_91-0\" class=\"reference\"><a href=\"#cite_note-icarus74-91\">[88]</a></sup> This period in Earth's future is often compared to Venus today, but the temperature is actually around two times the temperature on Venus today, and at this temperature the surface will be partially molten,<sup id=\"cite_ref-venus_92-0\" class=\"reference\"><a href=\"#cite_note-venus-92\">[89]</a></sup> while Venus probably has a mostly solid surface at present. Venus will also probably drastically heat up at this time as well, most likely being much hotter than Earth will be as it is closer to the Sun.",
+    "years": {
+      "base": 3500000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-NvcN",
+    "startTimeInCompactUnits": 9.544068044350276,
+    "easedStartTime": 22.01480187016443,
+    "cleanedContentHTML": "All water currently present in oceans (if not lost earlier) evaporates. The greenhouse effect caused by the massive, water-rich atmosphere, combined with the Sun's luminosity reaching roughly 35–40% above its present value, will result in Earth's surface temperature rising to 1,400 K (1,130 °C; 2,060 °F), which is hot enough to melt some surface rock.[71][78][87][88] This period in Earth's future is often compared to Venus today, but the temperature is actually around two times the temperature on Venus today, and at this temperature the surface will be partially molten,[89] while Venus probably has a mostly solid surface at present. Venus will also probably drastically heat up at this time as well, most likely being much hotter than Earth will be as it is closer to the Sun.",
+    "skimmableContent": "Earth's surface temperature will rise to 1,400 Kelvin (or 1,130 °C or 2,060 °F). The surface will be partially molten."
+  },
+  {
+    "yearsFromNow": "3.6 billion",
+    "contentHTML": "<a href=\"/wiki/Neptune\" title=\"Neptune\">Neptune</a>'s moon <a href=\"/wiki/Triton_(moon)\" title=\"Triton (moon)\">Triton</a> falls through the planet's <a href=\"/wiki/Roche_limit\" title=\"Roche limit\">Roche limit</a>, potentially disintegrating into a planetary <a href=\"/wiki/Ring_system\" title=\"Ring system\">ring system</a> similar to <a href=\"/wiki/Rings_of_Saturn\" title=\"Rings of Saturn\">Saturn</a>'s.<sup id=\"cite_ref-triton_93-0\" class=\"reference\"><a href=\"#cite_note-triton-93\">[90]</a></sup>",
+    "years": {
+      "base": 3600000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-rUCQ",
+    "startTimeInCompactUnits": 9.556302500767288,
+    "easedStartTime": 22.047082853473036,
+    "cleanedContentHTML": "Neptune's moon Triton falls through the planet's Roche limit, potentially disintegrating into a planetary ring system similar to Saturn's.[90]",
+    "skimmableContent": "Neptune's moon Triton falls through the planet's Roche limit, potentially disintegrating into a planetary ring system similar to Saturn's."
+  },
+  {
+    "yearsFromNow": "4 billion",
+    "contentHTML": "<a href=\"/wiki/Median\" title=\"Median\">Median</a> point by which the <a href=\"/wiki/Andromeda_Galaxy\" title=\"Andromeda Galaxy\">Andromeda Galaxy</a> will have <a href=\"/wiki/Andromeda%E2%80%93Milky_Way_collision\" title=\"Andromeda–Milky Way collision\">collided</a> with the <a href=\"/wiki/Milky_Way\" title=\"Milky Way\">Milky Way</a>, which will thereafter merge to form a galaxy dubbed \"Milkomeda\".<sup id=\"cite_ref-cox_94-0\" class=\"reference\"><a href=\"#cite_note-cox-94\">[91]</a></sup> The planets of the Solar System are expected to be relatively unaffected by this collision.<sup id=\"cite_ref-95\" class=\"reference\"><a href=\"#cite_note-95\">[92]</a></sup><sup id=\"cite_ref-96\" class=\"reference\"><a href=\"#cite_note-96\">[93]</a></sup><sup id=\"cite_ref-milk_97-0\" class=\"reference\"><a href=\"#cite_note-milk-97\">[94]</a></sup>",
+    "years": {
+      "base": 4000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-bFCV",
+    "startTimeInCompactUnits": 9.602059991327963,
+    "easedStartTime": 22.16757885515516,
+    "cleanedContentHTML": "Median point by which the Andromeda Galaxy will have collided with the Milky Way, which will thereafter merge to form a galaxy dubbed \"Milkomeda\".[91] The planets of the Solar System are expected to be relatively unaffected by this collision.[92][93][94]",
+    "skimmableContent": "The Andromeda Galaxy will have collided with the Milky Way, which will thereafter merge to form a galaxy dubbed \"Milkomeda\". The planets of the Solar System are expected to be relatively unaffected by this collision."
+  },
+  {
+    "yearsFromNow": "4.5 billion",
+    "contentHTML": "Mars reaches the same solar flux the Earth did when it first formed, 4.5 billion years ago from today.<sup id=\"cite_ref-mars_80-1\" class=\"reference\"><a href=\"#cite_note-mars-80\">[77]</a></sup>",
+    "years": {
+      "base": 4500000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-LfIP",
+    "startTimeInCompactUnits": 9.653212513775344,
+    "easedStartTime": 22.301841699961475,
+    "cleanedContentHTML": "Mars reaches the same solar flux the Earth did when it first formed, 4.5 billion years ago from today.[77]",
+    "skimmableContent": "Mars reaches the same solar flux the Earth did when it first formed, 4.5 billion years ago from today."
+  },
+  {
+    "yearsFromNow": "5.4 billion",
+    "contentHTML": "With the hydrogen supply exhausted at its core, the Sun leaves the <a href=\"/wiki/Main_sequence\" title=\"Main sequence\">main sequence</a> and begins to <a href=\"/wiki/Stellar_evolution\" title=\"Stellar evolution\">evolve</a> into a <a href=\"/wiki/Red_giant\" title=\"Red giant\">red giant</a>.<sup id=\"cite_ref-Schroder_2008_98-0\" class=\"reference\"><a href=\"#cite_note-Schroder_2008-98\">[95]</a></sup>",
+    "years": {
+      "base": 5400000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-bchy",
+    "startTimeInCompactUnits": 9.732393759822969,
+    "easedStartTime": 22.50876203875088,
+    "cleanedContentHTML": "With the hydrogen supply exhausted at its core, the Sun leaves the main sequence and begins to evolve into a red giant.[95]",
+    "skimmableContent": "With the hydrogen supply exhausted at its core, the Sun leaves the main sequence and begins to evolve into a red giant."
+  },
+  {
+    "yearsFromNow": "7.5 billion",
+    "contentHTML": "Earth and Mars may become <a href=\"/wiki/Tidal_locking\" title=\"Tidal locking\">tidally locked</a> with the expanding subgiant Sun.<sup id=\"cite_ref-mars_80-3\" class=\"reference\"><a href=\"#cite_note-mars-80\">[77]</a></sup>",
+    "years": {
+      "base": 7500000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-pmPz",
+    "startTimeInCompactUnits": 9.8750612633917,
+    "easedStartTime": 22.878819236990978,
+    "cleanedContentHTML": "Earth and Mars may become tidally locked with the expanding subgiant Sun.[77]",
+    "skimmableContent": "Earth and Mars may become tidally locked with the expanding subgiant Sun."
+  },
+  {
+    "yearsFromNow": "7.59 billion",
+    "contentHTML": "The Earth and Moon are very likely destroyed by falling into the Sun, just before the Sun reaches the tip of its <a href=\"/wiki/Red_giant\" title=\"Red giant\">red giant</a> phase and its maximum radius of 256 times the present-day value.<sup id=\"cite_ref-Schroder_2008_98-1\" class=\"reference\"><a href=\"#cite_note-Schroder_2008-98\">[95]</a></sup><sup id=\"cite_ref-earthredgiantsun_99-0\" class=\"reference\"><a href=\"#cite_note-earthredgiantsun-99\">[note 4]</a></sup> Before the final collision, the Moon possibly spirals below Earth's <a href=\"/wiki/Roche_limit\" title=\"Roche limit\">Roche limit</a>, breaking into a ring of debris, most of which falls to the Earth's surface.<sup id=\"cite_ref-powell2007_100-0\" class=\"reference\"><a href=\"#cite_note-powell2007-100\">[96]</a></sup><p>During this era, <a href=\"/wiki/Saturn\" title=\"Saturn\">Saturn</a>'s moon <a href=\"/wiki/Titan_(moon)\" title=\"Titan (moon)\">Titan</a> may reach surface temperatures necessary to support life.<sup id=\"cite_ref-Titan_101-0\" class=\"reference\"><a href=\"#cite_note-Titan-101\">[97]</a></sup></p>",
+    "years": {
+      "base": 7590000000,
+      "exp": 1
+    },
+    "category": "earth",
+    "id": "event-bLKw",
+    "startTimeInCompactUnits": 9.880241775895481,
+    "easedStartTime": 22.892190187743168,
+    "cleanedContentHTML": "The Earth and Moon are very likely destroyed by falling into the Sun, just before the Sun reaches the tip of its red giant phase and its maximum radius of 256 times the present-day value.[95][note 4] Before the final collision, the Moon possibly spirals below Earth's Roche limit, breaking into a ring of debris, most of which falls to the Earth's surface.[96]<p>During this era, Saturn's moon Titan may reach surface temperatures necessary to support life.[97]</p>",
+    "skimmableContent": "The Earth and Moon are very likely destroyed by falling into the Sun. Before the final collision, the Moon possibly spirals below Earth's Roche limit, breaking into a ring of debris, most of which falls to the Earth's surface. During this era, Saturn's moon Titan may reach surface temperatures necessary to support life."
+  },
+  {
+    "yearsFromNow": "7.9 billion",
+    "contentHTML": "The Sun reaches the tip of the red-giant branch of the <a href=\"/wiki/Hertzsprung%E2%80%93Russell_diagram\" title=\"Hertzsprung–Russell diagram\">Hertzsprung–Russell diagram</a>, achieving its maximum radius of 256 times the present-day value.<sup id=\"cite_ref-Rybicki2001_102-0\" class=\"reference\"><a href=\"#cite_note-Rybicki2001-102\">[98]</a></sup> In the process, <a href=\"/wiki/Mercury_(planet)\" title=\"Mercury (planet)\">Mercury</a>, <a href=\"/wiki/Venus\" title=\"Venus\">Venus</a>, and very likely Earth are destroyed.<sup id=\"cite_ref-Schroder_2008_98-2\" class=\"reference\"><a href=\"#cite_note-Schroder_2008-98\">[95]</a></sup>",
+    "years": {
+      "base": 7900000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-vISW",
+    "startTimeInCompactUnits": 9.897627091290442,
+    "easedStartTime": 22.937027980017035,
+    "cleanedContentHTML": "The Sun reaches the tip of the red-giant branch of the Hertzsprung–Russell diagram, achieving its maximum radius of 256 times the present-day value.[98] In the process, Mercury, Venus, and very likely Earth are destroyed.[95]",
+    "skimmableContent": "The Sun will achieve its maximum radius of 256 times the present-day value. In the process, Mercury, Venus, and very likely Earth will be destroyed."
+  },
+  {
+    "yearsFromNow": "8 billion",
+    "contentHTML": "The Sun becomes a carbon-oxygen <a href=\"/wiki/White_dwarf\" title=\"White dwarf\">white dwarf</a> with about 54.05% its present mass.<sup id=\"cite_ref-Schroder_2008_98-3\" class=\"reference\"><a href=\"#cite_note-Schroder_2008-98\">[95]</a></sup><sup id=\"cite_ref-nebula_103-0\" class=\"reference\"><a href=\"#cite_note-nebula-103\">[99]</a></sup><sup id=\"cite_ref-apj676_1_594_104-0\" class=\"reference\"><a href=\"#cite_note-apj676_1_594-104\">[100]</a></sup><sup id=\"cite_ref-dwarf_group_note_105-0\" class=\"reference\"><a href=\"#cite_note-dwarf_group_note-105\">[101]</a></sup> At this point, if somehow the Earth survives, temperatures on the surface of the planet, as well as other remaining planets in the Solar System, will begin dropping rapidly, due to the white dwarf Sun emitting much less energy than it does today.",
+    "years": {
+      "base": 8000000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-TrJJ",
+    "startTimeInCompactUnits": 9.903089986991944,
+    "easedStartTime": 22.951106357160537,
+    "cleanedContentHTML": "The Sun becomes a carbon-oxygen white dwarf with about 54.05% its present mass.[95][99][100][101] At this point, if somehow the Earth survives, temperatures on the surface of the planet, as well as other remaining planets in the Solar System, will begin dropping rapidly, due to the white dwarf Sun emitting much less energy than it does today.",
+    "skimmableContent": "The Sun becomes a carbon-oxygen white dwarf with about 54.05% its present mass."
+  },
+  {
+    "yearsFromNow": "22 billion",
+    "contentHTML": "The end of the Universe in the <a href=\"/wiki/Big_Rip\" title=\"Big Rip\">Big Rip</a> scenario, assuming a model of <a href=\"/wiki/Dark_energy\" title=\"Dark energy\">dark energy</a> with <a href=\"/wiki/Equation_of_state_(cosmology)\" title=\"Equation of state (cosmology)\"><var style=\"padding-right: 1px;\">w</var> = −1.5</a>.<sup id=\"cite_ref-bigrip_106-0\" class=\"reference\"><a href=\"#cite_note-bigrip-106\">[102]</a></sup> If the density of dark energy is less than -1, then the Universe's expansion would continue to accelerate and the Observable Universe would continue to get smaller. Around 200 million years before the rip, galaxy clusters like the <a href=\"/wiki/Local_Group\" title=\"Local Group\">Local Group</a> or the <a href=\"/wiki/Sculptor_Group\" title=\"Sculptor Group\">Sculptor Group</a> would be destroyed. Sixty million years before the rip, all galaxies will begin to lose stars around their edges and will completely disintegrate in another 40 million years. Three months before the end, all star systems will become gravitationally unbound, and planets will fly off into the rapidly expanding universe. Thirty minutes before the end, <a href=\"/wiki/Planet\" title=\"Planet\">planets</a>, <a href=\"/wiki/Star\" title=\"Star\">stars</a>, <a href=\"/wiki/Asteroid\" title=\"Asteroid\">asteroids</a> and even extreme objects like <a href=\"/wiki/Neutron_star\" title=\"Neutron star\">neutron stars</a> and <a href=\"/wiki/Black_hole\" title=\"Black hole\">black holes</a> will evaporate into <a href=\"/wiki/Atom\" title=\"Atom\">atoms</a>. 10<sup>−19</sup> seconds before the end, atoms would break apart. Ultimately, once rip reaches the <a href=\"/wiki/Planck_scale\" class=\"mw-redirect\" title=\"Planck scale\">Planck scale</a>, cosmic strings would be disintegrated as well as the fabric of <a href=\"/wiki/Spacetime\" title=\"Spacetime\">spacetime</a> itself. The universe would enter into a \"rip singularity\" when all distances become infinitely large. Whereas a \"crunch singularity\" all matter is infinitely concentrated, in a \"rip singularity\" all matter is infinitely spread out.<sup id=\"cite_ref-107\" class=\"reference\"><a href=\"#cite_note-107\">[103]</a></sup> However, observations of <a href=\"/wiki/Galaxy_cluster\" title=\"Galaxy cluster\">galaxy cluster</a> speeds by the <a href=\"/wiki/Chandra_X-ray_Observatory\" title=\"Chandra X-ray Observatory\">Chandra X-ray Observatory</a> suggest that the true value of <var style=\"padding-right: 1px;\">w</var> is c. −0.991, meaning the Big Rip will not occur.<sup id=\"cite_ref-chand_108-0\" class=\"reference\"><a href=\"#cite_note-chand-108\">[104]</a></sup>",
+    "years": {
+      "base": 22000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-fDud",
+    "startTimeInCompactUnits": 10.342422680822207,
+    "easedStartTime": 24.06670936476562,
+    "cleanedContentHTML": "The end of the Universe in the Big Rip scenario, assuming a model of dark energy with w = −1.5.[102] If the density of dark energy is less than -1, then the Universe's expansion would continue to accelerate and the Observable Universe would continue to get smaller. Around 200 million years before the rip, galaxy clusters like the Local Group or the Sculptor Group would be destroyed. Sixty million years before the rip, all galaxies will begin to lose stars around their edges and will completely disintegrate in another 40 million years. Three months before the end, all star systems will become gravitationally unbound, and planets will fly off into the rapidly expanding universe. Thirty minutes before the end, planets, stars, asteroids and even extreme objects like neutron stars and black holes will evaporate into atoms. 10−19 seconds before the end, atoms would break apart. Ultimately, once rip reaches the Planck scale, cosmic strings would be disintegrated as well as the fabric of spacetime itself. The universe would enter into a \"rip singularity\" when all distances become infinitely large. Whereas a \"crunch singularity\" all matter is infinitely concentrated, in a \"rip singularity\" all matter is infinitely spread out.[103] However, observations of galaxy cluster speeds by the Chandra X-ray Observatory suggest that the true value of w is c. −0.991, meaning the Big Rip will not occur.[104]",
+    "skimmableContent": "The end of the Universe in the Big Rip scenario, assuming a model of dark energy with w = −1.5, which is unlikely. The universe would enter into a \"rip singularity\" when all distances become infinitely large."
+  },
+  {
+    "yearsFromNow": "100-150 billion",
+    "contentHTML": "The <a href=\"/wiki/Metric_expansion_of_space\" class=\"mw-redirect\" title=\"Metric expansion of space\">Universe's expansion</a> causes all galaxies beyond the former Milky Way's <a href=\"/wiki/Local_Group\" title=\"Local Group\">Local Group</a> to disappear beyond the <a href=\"/wiki/Particle_horizon\" title=\"Particle horizon\">cosmic light horizon</a>, removing them from the <a href=\"/wiki/Observable_universe\" title=\"Observable universe\">observable universe</a>.<sup id=\"cite_ref-galaxy_113-0\" class=\"reference\"><a href=\"#cite_note-galaxy-113\">[109]</a></sup>",
+    "years": {
+      "base": 100000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-LJnF",
+    "startTimeInCompactUnits": 11,
+    "easedStartTime": 25.677419354838708,
+    "cleanedContentHTML": "The Universe's expansion causes all galaxies beyond the former Milky Way's Local Group to disappear beyond the cosmic light horizon, removing them from the observable universe.[109]",
+    "skimmableContent": "The Universe's expansion causes all galaxies beyond the former Milky Way's Local Group to disappear beyond the cosmic light horizon, removing them from the observable universe."
+  },
+  {
+    "yearsFromNow": "150 billion",
+    "contentHTML": "The universe will have expanded in size by a factor of 10,000 to approximately 10<sup>15</sup> (1 quadrillion) light-years in diameter.<sup id=\"cite_ref-:0_114-0\" class=\"reference\"><a href=\"#cite_note-:0-114\">[110]</a></sup><p>Proximate galaxy group <a href=\"/wiki/M81_Group\" title=\"M81 Group\">M81</a>, currently one of the closest to the <a href=\"/wiki/Local_Group\" title=\"Local Group\">Local Group</a> at 11.4 million light-years away and receding at ≈300&nbsp;km/s, would then be over 100 billion light-years away and receding at more than 6 times the <a href=\"/wiki/Speed_of_light\" title=\"Speed of light\">speed of light</a>.<sup id=\"cite_ref-115\" class=\"reference\"><a href=\"#cite_note-115\">[111]</a></sup></p><p>Galaxy <a href=\"/wiki/GN-z11\" title=\"GN-z11\">GN-z11</a>, currently at 32 billion light-years away the most distant galaxy known, would then be more than 200 trillion light-years away and receding at over 10,000 times the speed of light, assuming convergence of the <a href=\"/wiki/Hubble%27s_law\" title=\"Hubble's law\">Hubble parameter</a> from currently ≈70&nbsp;km/s/Mpc to a future value of 55.4&nbsp;km/s/Mpc.</p>",
+    "years": {
+      "base": 150000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-jUfN",
+    "startTimeInCompactUnits": 11.176091259055681,
+    "easedStartTime": 26.097214020350936,
+    "cleanedContentHTML": "The universe will have expanded in size by a factor of 10,000 to approximately 1015 (1 quadrillion) light-years in diameter.[110]<p>Proximate galaxy group M81, currently one of the closest to the Local Group at 11.4 million light-years away and receding at ≈300 km/s, would then be over 100 billion light-years away and receding at more than 6 times the speed of light.[111]</p><p>Galaxy GN-z11, currently at 32 billion light-years away the most distant galaxy known, would then be more than 200 trillion light-years away and receding at over 10,000 times the speed of light, assuming convergence of the Hubble parameter from currently ≈70 km/s/Mpc to a future value of 55.4 km/s/Mpc.</p>",
+    "skimmableContent": "The universe will have expanded in size by a factor of 10,000 to approximately 1 quadrillion light-years in diameter."
+  },
+  {
+    "yearsFromNow": "150 billion",
+    "contentHTML": "The <a href=\"/wiki/Cosmic_microwave_background\" title=\"Cosmic microwave background\">cosmic microwave background</a> cools from its current temperature of c. 2.7&nbsp;K to 0.3&nbsp;K, rendering it essentially undetectable with current technology.<sup id=\"cite_ref-temp_116-0\" class=\"reference\"><a href=\"#cite_note-temp-116\">[112]</a></sup>",
+    "years": {
+      "base": 150000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-Wehh",
+    "startTimeInCompactUnits": 11.176091259055681,
+    "easedStartTime": 26.097214020350936,
+    "cleanedContentHTML": "The cosmic microwave background cools from its current temperature of c. 2.7 K to 0.3 K, rendering it essentially undetectable with current technology.[112]",
+    "skimmableContent": "The cosmic microwave background cools from its current temperature of 2.7 Kelvin to 0.3 Kelvin."
+  },
+  {
+    "yearsFromNow": "450 billion",
+    "contentHTML": "<a href=\"/wiki/Median\" title=\"Median\">Median</a> point by which the c. 47 galaxies<sup id=\"cite_ref-messier_117-0\" class=\"reference\"><a href=\"#cite_note-messier-117\">[113]</a></sup> of the Local Group will coalesce into a single large galaxy.<sup id=\"cite_ref-dying_4-1\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup>",
+    "years": {
+      "base": 450000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-SEIr",
+    "startTimeInCompactUnits": 11.653212513775344,
+    "easedStartTime": 27.211179623638234,
+    "cleanedContentHTML": "Median point by which the c. 47 galaxies[113] of the Local Group will coalesce into a single large galaxy.[4]",
+    "skimmableContent": "The c. 47 galaxies of the Local Group will coalesce into a single large galaxy."
+  },
+  {
+    "yearsFromNow": "800 billion",
+    "contentHTML": "Expected time when the net light emission from the combined \"Milkomeda\" galaxy begins to decline as the <a href=\"/wiki/Red_dwarf\" title=\"Red dwarf\">red dwarf</a> stars pass through their <a href=\"/wiki/Blue_dwarf_(red-dwarf_stage)\" title=\"Blue dwarf (red-dwarf stage)\">blue dwarf</a> stage of peak luminosity.<sup id=\"cite_ref-bluedwarf_120-0\" class=\"reference\"><a href=\"#cite_note-bluedwarf-120\">[114]</a></sup>",
+    "years": {
+      "base": 800000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-Tffk",
+    "startTimeInCompactUnits": 11.903089986991944,
+    "easedStartTime": 27.78129012144513,
+    "cleanedContentHTML": "Expected time when the net light emission from the combined \"Milkomeda\" galaxy begins to decline as the red dwarf stars pass through their blue dwarf stage of peak luminosity.[114]",
+    "skimmableContent": "Expected time when the net light emission from the combined \"Milkomeda\" galaxy begins to decline as the red dwarf stars pass through their blue dwarf stage of peak luminosity."
+  },
+  {
+    "yearsFromNow": "100 billion – 1 trillion",
+    "contentHTML": "Estimated time until the Universe ends via the <a href=\"/wiki/Big_Crunch\" title=\"Big Crunch\">Big Crunch</a>, assuming a \"closed\" model. Depending on how long the <a href=\"/wiki/Expansion_of_the_universe\" title=\"Expansion of the universe\">expansion</a> phase is, the events in the contraction phase will happen in the reverse order.<sup id=\"cite_ref-Davies1994_121-0\" class=\"reference\"><a href=\"#cite_note-Davies1994-121\">[115]</a></sup> Galaxy <a href=\"/wiki/Supercluster\" title=\"Supercluster\">superclusters</a> would first merge, followed by <a href=\"/wiki/Galaxy_cluster\" title=\"Galaxy cluster\">galaxy clusters</a> and then later <a href=\"/wiki/Galaxy\" title=\"Galaxy\">galaxies</a>. Eventually, <a href=\"/wiki/Star\" title=\"Star\">stars</a> have become so close together that they will begin to collide with each other. As the Universe continues to contract, the <a href=\"/wiki/Cosmic_microwave_background\" title=\"Cosmic microwave background\">cosmic microwave background</a> <a href=\"/wiki/Temperature\" title=\"Temperature\">temperature</a> will rise above the surface temperature of certain stars, which means that these stars will no longer be able to expel their internal heat, slowly cooking themselves until they explode. It will begin with low-mass <a href=\"/wiki/Red_Dwarf\" title=\"Red Dwarf\">Red Dwarf</a> stars once the CMB reaches 2,400&nbsp;K (2,130&nbsp;°C; 3,860&nbsp;°F) around 500,000 years before the end, followed by <a href=\"/wiki/Stellar_classification\" title=\"Stellar classification\">K-type, G-type, F-type, A-type, B-type and finally O-type</a> stars around 100,000 years before the Big Crunch. Minutes before the Big Crunch, the temperature will be so great that <a href=\"/wiki/Atomic_nuclei\" class=\"mw-redirect\" title=\"Atomic nuclei\">atomic nuclei</a> will disband and the particles will be sucked up by already coalescing <a href=\"/wiki/Black_hole\" title=\"Black hole\">black holes</a>. Finally, all the black holes in the Universe will merge into one singular black hole containing all the <a href=\"/wiki/Matter\" title=\"Matter\">matter</a> in the universe, which would then devour the Universe, including itself.<sup id=\"cite_ref-Davies1994_121-1\" class=\"reference\"><a href=\"#cite_note-Davies1994-121\">[115]</a></sup> After this, it is possible that a new Big Bang would follow and create a new universe. The observed actions of <a href=\"/wiki/Dark_energy\" title=\"Dark energy\">dark energy</a> and the shape of the Universe do not support this scenario. It is thought that the Universe is flat and because of dark energy, the expansion of the universe will accelerate; However, the properties of dark energy are still not known, and thus it is possible that dark energy could reverse sometime in the future.<p>It is also possible that the Universe is a \"closed model\", but that the curvature is so small that we can't detect it over the distance of the current observable universe.<sup id=\"cite_ref-122\" class=\"reference\"><a href=\"#cite_note-122\">[116]</a></sup></p>",
+    "years": {
+      "base": 1000000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-YISK",
+    "startTimeInCompactUnits": 12,
+    "easedStartTime": 28,
+    "cleanedContentHTML": "Estimated time until the Universe ends via the Big Crunch, assuming a \"closed\" model. Depending on how long the expansion phase is, the events in the contraction phase will happen in the reverse order.[115] Galaxy superclusters would first merge, followed by galaxy clusters and then later galaxies. Eventually, stars have become so close together that they will begin to collide with each other. As the Universe continues to contract, the cosmic microwave background temperature will rise above the surface temperature of certain stars, which means that these stars will no longer be able to expel their internal heat, slowly cooking themselves until they explode. It will begin with low-mass Red Dwarf stars once the CMB reaches 2,400 K (2,130 °C; 3,860 °F) around 500,000 years before the end, followed by K-type, G-type, F-type, A-type, B-type and finally O-type stars around 100,000 years before the Big Crunch. Minutes before the Big Crunch, the temperature will be so great that atomic nuclei will disband and the particles will be sucked up by already coalescing black holes. Finally, all the black holes in the Universe will merge into one singular black hole containing all the matter in the universe, which would then devour the Universe, including itself.[115] After this, it is possible that a new Big Bang would follow and create a new universe. The observed actions of dark energy and the shape of the Universe do not support this scenario. It is thought that the Universe is flat and because of dark energy, the expansion of the universe will accelerate; However, the properties of dark energy are still not known, and thus it is possible that dark energy could reverse sometime in the future.<p>It is also possible that the Universe is a \"closed model\", but that the curvature is so small that we can't detect it over the distance of the current observable universe.[116]</p>",
+    "skimmableContent": "Estimated time until the Universe ends via the Big Crunch, assuming a \"closed\" model. Everything in the Universe will merge into one singular black hole containing all the matter in the universe, which would then devour the Universe, including itself. After this, it is possible that a new Big Bang would follow and create a new universe. (The observed actions of dark energy and the shape of the Universe do not support this scenario.)"
+  },
+  {
+    "yearsFromNow": "1.25 trillion",
+    "contentHTML": "The universe will have doubled in size more than 100 times (a factor of more than 10<sup>30</sup>) to more than 10<sup>41</sup> light-years in diameter. All gravitationally unbound galaxies currently separated by more than 1 <a href=\"/wiki/Parsec#Megaparsecs_and_gigaparsecs\" title=\"Parsec\">megaparsec</a> (Mpc) will at this point be separated by more than 10<sup>30</sup> Mpc (≈10<sup>36</sup> light-years) and receding from <i>each other</i> more than 100 million times the diameter of the currently <a href=\"/wiki/Observable_universe\" title=\"Observable universe\">observable universe</a> every second.<p>Distant galaxy <a href=\"/wiki/GN-z11\" title=\"GN-z11\">GN-z11</a> or its remnants would at that point also be more than 10<sup>41</sup> light-years away and receding more than 1 trillion times the diameter of the currently <a href=\"/wiki/Observable_universe\" title=\"Observable universe\">observable universe</a> every second<sup id=\"cite_ref-123\" class=\"reference\"><a href=\"#cite_note-123\">[note 7]</a></sup> (assuming a continued expansion rate of doubling every 12.2 billion years and future <a href=\"/wiki/Hubble%27s_law\" title=\"Hubble's law\">Hubble parameter</a> value of 55.4&nbsp;km/s/Mpc<sup id=\"cite_ref-:0_114-2\" class=\"reference\"><a href=\"#cite_note-:0-114\">[110]</a></sup>) . Beyond this point, the universe will expand by a factor of 10<sup>24</sup> every trillion years, and it will be increasingly difficult to describe the recession of any gravitationally unbound objects in terms of a familiar physical analogy.</p>",
+    "years": {
+      "base": 1250000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-LDTC",
+    "startTimeInCompactUnits": 12.096910013008056,
+    "easedStartTime": 28.21738917963605,
+    "speakableContent": "The universe will have doubled in size more than 100 times (a factor of more than 10 to the 30th power) to more than 10 to the 41st power light-years in diameter.",
+    "skimmableContent": "The universe will have doubled in size more than 100 times (a factor of more than 10<sup>30</sup> power) to more than 10<sup>41</sup> light-years in diameter.",
+    "cleanedContentHTML": "The universe will have doubled in size more than 100 times (a factor of more than 10<sup>30</sup>) to more than 10<sup>41</sup> to more than 10<sup>41</sup> light-years in diameter. All gravitationally unbound galaxies currently separated by more than 1 megaparsec (Mpc) will at this point be separated by more than 10<sup>30</sup> Mpc (≈10<sup>36</sup> light-years) and receding from <i>each other</i> more than 100 million times the diameter of the currently observable universe every second.<p>Distant galaxy GN-z11 or its remnants would at that point also be more than 10<sup>41</sup> light-years away and receding more than 1 trillion times the diameter of the currently observable universe every second (assuming a continued expansion rate of doubling every 12.2 billion years and future Hubble parameter value of 55.4 km/s/Mpc) . Beyond this point, the universe will expand by a factor of 10<sup>24</sup> every trillion years, and it will be increasingly difficult to describe the recession of any gravitationally unbound objects in terms of a familiar physical analogy.</p>"
+  },
+  {
+    "yearsFromNow": "4 trillion",
+    "contentHTML": "Estimated time until the red dwarf star <a href=\"/wiki/Proxima_Centauri\" title=\"Proxima Centauri\">Proxima Centauri</a>, the closest star to the Sun at a distance of 4.25 <a href=\"/wiki/Light-year\" title=\"Light-year\">light-years</a>, leaves the main sequence and becomes a <a href=\"/wiki/White_dwarf\" title=\"White dwarf\">white dwarf</a>.<sup id=\"cite_ref-124\" class=\"reference\"><a href=\"#cite_note-124\">[117]</a></sup>",
+    "years": {
+      "base": 4000000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-Kewv",
+    "startTimeInCompactUnits": 12.602059991327963,
+    "easedStartTime": 29.329619029814186,
+    "cleanedContentHTML": "Estimated time until the red dwarf star Proxima Centauri, the closest star to the Sun at a distance of 4.25 light-years, leaves the main sequence and becomes a white dwarf.[117]",
+    "skimmableContent": "Estimated time until the red dwarf star Proxima Centauri, the closest star to the Sun at a distance of 4.25 light-years, leaves the main sequence and becomes a white dwarf."
+  },
+  {
+    "yearsFromNow": "4.2 trillion",
+    "contentHTML": "The universe will have expanded by significantly more than a factor of 10<sup>100</sup>. All gravitationally unbound galaxies currently separated by more than 1 <a href=\"/wiki/Parsec#Megaparsecs_and_gigaparsecs\" title=\"Parsec\">Mpc</a> will at this point be separated by more than ≈10<sup>103</sup> Mpc (≈10<sup>110</sup> light-years) and receding from each other at more than ≈10<sup>83</sup> <a href=\"/wiki/Parsec#Megaparsecs_and_gigaparsecs\" title=\"Parsec\">Gpc</a>/s (≈10<sup>92</sup> light-years per second), assuming a continued expansion rate of doubling every 12.2 billion years and future <a href=\"/wiki/Hubble%27s_law\" title=\"Hubble's law\">Hubble parameter</a> value of 55.4&nbsp;km/s/Mpc.<sup id=\"cite_ref-:0_114-3\" class=\"reference\"><a href=\"#cite_note-:0-114\">[110]</a></sup><p>The <a href=\"/wiki/Comoving_and_proper_distances\" title=\"Comoving and proper distances\">proper distances</a> between galaxies will be increasing to such an extent<sup id=\"cite_ref-125\" class=\"reference\"><a href=\"#cite_note-125\">[note 8]</a></sup> that the rate at which they are receding from each other is accelerating by more than ≈10<sup>65</sup>&nbsp;Gpc/s/s (≈10<sup>74</sup> light-years per second per second) due to the expansion of the universe.</p>",
+    "years": {
+      "base": 4200000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-Pvwd",
+    "startTimeInCompactUnits": 12.6232492903979,
+    "easedStartTime": 29.375520522471586,
+    "cleanedContentHTML": "The universe will have expanded by significantly more than a factor of 10100. All gravitationally unbound galaxies currently separated by more than 1 Mpc will at this point be separated by more than ≈10103 Mpc (≈10110 light-years) and receding from each other at more than ≈1083 Gpc/s (≈1092 light-years per second), assuming a continued expansion rate of doubling every 12.2 billion years and future Hubble parameter value of 55.4 km/s/Mpc.[110]<p>The proper distances between galaxies will be increasing to such an extent[note 8] that the rate at which they are receding from each other is accelerating by more than ≈1065 Gpc/s/s (≈1074 light-years per second per second) due to the expansion of the universe.</p>",
+    "speakableContent": "The universe will have expanded by significantly more than a factor of 10<sup>100</sup> power.",
+    "skimmableContent": "The universe will have expanded by significantly more than a factor of 10 to the 100th power."
+  },
+  {
+    "yearsFromNow": "12 trillion",
+    "contentHTML": "Estimated time until the red dwarf <a href=\"/wiki/VB_10\" title=\"VB 10\">VB 10</a>, as of 2016 the least massive <a href=\"/wiki/Main_sequence\" title=\"Main sequence\">main sequence</a> star with an estimated mass of 0.075 <var>M</var><sub>☉</sub>, runs out of hydrogen in its core and becomes a <a href=\"/wiki/White_dwarf\" title=\"White dwarf\">white dwarf</a>.<sup id=\"cite_ref-S&amp;T_22_126-0\" class=\"reference\"><a href=\"#cite_note-S&amp;T_22-126\">[118]</a></sup><sup id=\"cite_ref-127\" class=\"reference\"><a href=\"#cite_note-127\">[119]</a></sup>",
+    "years": {
+      "base": 12000000000000,
+      "exp": 1
+    },
+    "category": "galaxy",
+    "id": "event-xpcZ",
+    "startTimeInCompactUnits": 13.079181246047625,
+    "easedStartTime": 30.348941140274228,
+    "cleanedContentHTML": "Estimated time until the red dwarf VB 10, as of 2016 the least massive main sequence star with an estimated mass of 0.075 M☉, runs out of hydrogen in its core and becomes a white dwarf.[118][119]",
+    "skimmableContent": "Estimated time until the red dwarf VB 10, as of 2016 the least massive main sequence star with an estimated mass of 0.075 M☉, runs out of hydrogen in its core and becomes a white dwarf."
+  },
+  {
+    "yearsFromNow": "30 trillion",
+    "contentHTML": "Estimated time for stars (including the <a href=\"/wiki/Sun\" title=\"Sun\">Sun</a>) to undergo a close encounter with another star in local stellar neighborhoods. Whenever two stars (or stellar remnants) pass close to each other, their planets' orbits can be disrupted, potentially ejecting them from the system entirely. On average, the closer a planet's orbit to its parent star the longer it takes to be ejected in this manner, because it is gravitationally more tightly bound to the star.<sup id=\"cite_ref-strip_128-0\" class=\"reference\"><a href=\"#cite_note-strip-128\">[120]</a></sup>",
+    "years": {
+      "base": 30000000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-jdEL",
+    "startTimeInCompactUnits": 13.477121254719663,
+    "easedStartTime": 31.17687800962939,
+    "cleanedContentHTML": "Estimated time for stars (including the Sun) to undergo a close encounter with another star in local stellar neighborhoods. Whenever two stars (or stellar remnants) pass close to each other, their planets' orbits can be disrupted, potentially ejecting them from the system entirely. On average, the closer a planet's orbit to its parent star the longer it takes to be ejected in this manner, because it is gravitationally more tightly bound to the star.[120]",
+    "skimmableContent": "Stars (including the Sun) will undergo a close encounter with another star in local stellar neighborhoods. Whenever two stars (or stellar remnants) pass close to each other, their planets' orbits can be disrupted, potentially ejecting them from the system entirely."
+  },
+  {
+    "yearsFromNow": "100 trillion",
+    "contentHTML": "High estimate for the time until normal <a href=\"/wiki/Star_formation\" title=\"Star formation\">star formation</a> ends in galaxies.<sup id=\"cite_ref-dying_4-3\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup> This marks the transition from the <a href=\"/wiki/Future_of_an_expanding_universe\" title=\"Future of an expanding universe\">Stelliferous Era to the Degenerate Era</a>; with no free hydrogen to form new stars, all remaining stars slowly exhaust their fuel and die.<sup id=\"cite_ref-five_ages_3-1\" class=\"reference\"><a href=\"#cite_note-five_ages-3\">[3]</a></sup>",
+    "years": {
+      "base": 100000000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-WLEC",
+    "startTimeInCompactUnits": 14,
+    "easedStartTime": 32.23529411764706,
+    "cleanedContentHTML": "High estimate for the time until normal star formation ends in galaxies.[4] This marks the transition from the Stelliferous Era to the Degenerate Era; with no free hydrogen to form new stars, all remaining stars slowly exhaust their fuel and die.[3]",
+    "skimmableContent": "Normal star formation ends in galaxies. This marks the transition from the Stelliferous Era to the Degenerate Era; with no free hydrogen to form new stars, all remaining stars slowly exhaust their fuel and die.",
+    "speakableContent": "Normal star formation ends in galaxies. This marks the transition from the stella ferrous Era to the Degenerate Era; with no free hydrogen to form new stars, all remaining stars slowly exhaust their fuel and die."
+  },
+  {
+    "yearsFromNow": "110–120 trillion",
+    "contentHTML": "Time by which all stars in the universe will have exhausted their fuel (the longest-lived stars, low-mass <a href=\"/wiki/Red_dwarf\" title=\"Red dwarf\">red dwarfs</a>, have lifespans of roughly 10–20 trillion years).<sup id=\"cite_ref-dying_4-4\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup> After this point, the stellar-mass objects remaining are <a href=\"/wiki/Compact_star\" title=\"Compact star\">stellar remnants</a> (<a href=\"/wiki/White_dwarf\" title=\"White dwarf\">white dwarfs</a>, <a href=\"/wiki/Neutron_star\" title=\"Neutron star\">neutron stars</a>, <a href=\"/wiki/Stellar_black_hole\" title=\"Stellar black hole\">black holes</a>) and <a href=\"/wiki/Brown_dwarf\" title=\"Brown dwarf\">brown dwarfs</a>.<p>Collisions between brown dwarfs will create new red dwarfs on a marginal level: on average, about 100 stars will be shining in what was once the Milky Way. Collisions between stellar remnants will create occasional supernovae.<sup id=\"cite_ref-dying_4-5\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup></p>",
+    "years": {
+      "base": 110000000000000,
+      "exp": 1
+    },
+    "category": "universe",
+    "id": "event-aQad",
+    "startTimeInCompactUnits": 14.041392685158225,
+    "easedStartTime": 32.31769271870814,
+    "cleanedContentHTML": "Time by which all stars in the universe will have exhausted their fuel (the longest-lived stars, low-mass red dwarfs, have lifespans of roughly 10–20 trillion years).[4] After this point, the stellar-mass objects remaining are stellar remnants (white dwarfs, neutron stars, black holes) and brown dwarfs.<p>Collisions between brown dwarfs will create new red dwarfs on a marginal level: on average, about 100 stars will be shining in what was once the Milky Way. Collisions between stellar remnants will create occasional supernovae.[4]</p>",
+    "skimmableContent": "On average, about 100 stars will be shining in what was once the Milky Way. Collisions between stellar remnants will create occasional supernovae."
+  },
+  {
+    "yearsFromNow": "1 quadrillion",
+    "contentHTML": "Estimated time until stellar close encounters detach all planets in star systems (including the <a href=\"/wiki/Solar_System\" title=\"Solar System\">Solar System</a>) from their orbits.<sup id=\"cite_ref-dying_4-6\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup><p>By this point, the <a href=\"/wiki/Black_dwarf\" title=\"Black dwarf\">Sun will have cooled</a> to five degrees above <a href=\"/wiki/Absolute_zero\" title=\"Absolute zero\">absolute zero</a>.<sup id=\"cite_ref-five_degs_129-0\" class=\"reference\"><a href=\"#cite_note-five_degs-129\">[121]</a></sup></p>",
+    "years": {
+      "base": 1000000000000000,
+      "exp": 1
+    },
+    "category": "solar",
+    "id": "event-FlwT",
+    "startTimeInCompactUnits": 15,
+    "easedStartTime": 34.17142857142857,
+    "cleanedContentHTML": "Estimated time until stellar close encounters detach all planets in star systems (including the Solar System) from their orbits.[4]<p>By this point, the Sun will have cooled to five degrees above absolute zero.[121]</p>",
+    "skimmableContent": "Stellar close encounters detach all planets in star systems (including the Solar System) from their orbits. By this point, the Sun will have cooled to five degrees above absolute zero."
+  },
+  {
+    "yearsFromNow": "10–100 quintillion",
+    "contentHTML": "Estimated time until 90%–99% of <a href=\"/wiki/Brown_dwarf\" title=\"Brown dwarf\">brown dwarfs</a> and <a href=\"/wiki/Compact_star\" title=\"Compact star\">stellar remnants</a> (including the <a href=\"/wiki/Sun\" title=\"Sun\">Sun</a>) are ejected from galaxies. When two objects pass close enough to each other, they exchange orbital energy, with lower-mass objects tending to gain energy. Through repeated encounters, the lower-mass objects can gain enough energy in this manner to be ejected from their galaxy. This process eventually causes the Milky Way to eject the majority of its brown dwarfs and stellar remnants.<sup id=\"cite_ref-dying_4-7\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup><sup id=\"cite_ref-five_ages_pp85–87_130-0\" class=\"reference\"><a href=\"#cite_note-five_ages_pp85–87-130\">[122]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 18
+    },
+    "category": "galaxy",
+    "id": "event-wuXN",
+    "startTimeInCompactUnits": 18,
+    "easedStartTime": 39.368421052631575,
+    "cleanedContentHTML": "Estimated time until 90%–99% of brown dwarfs and stellar remnants (including the Sun) are ejected from galaxies. When two objects pass close enough to each other, they exchange orbital energy, with lower-mass objects tending to gain energy. Through repeated encounters, the lower-mass objects can gain enough energy in this manner to be ejected from their galaxy. This process eventually causes the Milky Way to eject the majority of its brown dwarfs and stellar remnants.[4][122]",
+    "skimmableContent": "90%–99% of brown dwarfs and stellar remnants (including the Sun) will be ejected from galaxies."
+  },
+  {
+    "yearsFromNow": "10<sup>30</sup>",
+    "contentHTML": "Estimated time until those stars not ejected from galaxies (1%–10%) fall into their galaxies' central <a href=\"/wiki/Supermassive_black_hole\" title=\"Supermassive black hole\">supermassive black holes</a>. By this point, with <a href=\"/wiki/Binary_star\" title=\"Binary star\">binary stars</a> having fallen into each other, and planets into their stars, via emission of gravitational radiation, only solitary objects (stellar remnants, brown dwarfs, ejected planetary-mass objects, black holes) will remain in the universe.<sup id=\"cite_ref-dying_4-8\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 31
+    },
+    "category": "universe",
+    "id": "event-voru",
+    "startTimeInCompactUnits": 31,
+    "easedStartTime": 54.82352941176471,
+    "cleanedContentHTML": "Estimated time until those stars not ejected from galaxies (1%–10%) fall into their galaxies' central supermassive black holes. By this point, with binary stars having fallen into each other, and planets into their stars, via emission of gravitational radiation, only solitary objects (stellar remnants, brown dwarfs, ejected planetary-mass objects, and black holes) will remain in the universe.[4]",
+    "skimmableContent": "Those stars not ejected from galaxies fall into their galaxies' central supermassive black holes. By this point, with binary stars having fallen into each other, and planets into their stars, via emission of gravitational radiation, only solitary objects (stellar remnants, brown dwarfs, ejected planetary-mass objects, and black holes) will remain in the universe."
+  },
+  {
+    "yearsFromNow": "3×10<sup>43</sup>",
+    "contentHTML": "Estimated time for all nucleons in the observable universe to decay, if the hypothesized <a href=\"/wiki/Proton_decay\" title=\"Proton decay\">proton half-life</a> takes the largest possible value, 10<sup>41</sup> years,<sup id=\"cite_ref-dying_4-9\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup> assuming that the <a href=\"/wiki/Big_Bang\" title=\"Big Bang\">Big Bang</a> was <a href=\"/wiki/Inflation_(cosmology)\" title=\"Inflation (cosmology)\">inflationary</a> and that the same process that made baryons predominate over anti-baryons in the early Universe makes protons decay.<sup id=\"cite_ref-half-life_133-1\" class=\"reference\"><a href=\"#cite_note-half-life-133\">[125]</a></sup><sup id=\"cite_ref-half-life_134-1\" class=\"reference\"><a href=\"#cite_note-half-life-134\">[note 9]</a></sup> By this time, if protons do decay, the <a href=\"/wiki/Future_of_an_expanding_universe\" title=\"Future of an expanding universe\">Black Hole Era</a>, in which black holes are the only remaining celestial objects, begins.<sup id=\"cite_ref-five_ages_3-2\" class=\"reference\"><a href=\"#cite_note-five_ages-3\">[3]</a></sup><sup id=\"cite_ref-dying_4-10\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 43.477
+    },
+    "category": "physics",
+    "id": "event-TdMg",
+    "startTimeInCompactUnits": 43.477,
+    "easedStartTime": 63.70338862895222,
+    "cleanedContentHTML": "Estimated time for all nucleons in the observable universe to decay, if the hypothesized proton half-life takes the largest possible value, 1041 years,[4] assuming that the Big Bang was inflationary and that the same process that made baryons predominate over anti-baryons in the early Universe makes protons decay.[125][note 9] By this time, if protons do decay, the Black Hole Era, in which black holes are the only remaining celestial objects, begins.[3][4]",
+    "skimmableContent": "Estimated time for all nucleons in the observable universe to decay, if the hypothesized proton half-life takes the largest possible value, 10<sup>41</sup> years, assuming that the Big Bang was inflationary and that the same process that made baryons predominate over anti-baryons in the early Universe makes protons decay. By this time, if protons do decay, the Black Hole Era, in which black holes are the only remaining celestial objects, begins.",
+    "speakableContent": "Estimated time for all nucleons in the observable universe to decay, if the hypothesized proton half-life takes the largest possible value, 10 to the 41st power years, assuming that the Big Bang was inflationary and that the same process that made baryons predominate over anti-baryons in the early Universe makes protons decay. By this time, if protons do decay, the Black Hole Era, in which black holes are the only remaining celestial objects, begins."
+  },
+  {
+    "yearsFromNow": "10<sup>65</sup>",
+    "contentHTML": "Assuming that protons do not decay, estimated time for rigid objects, from free-floating rocks in space to <a href=\"/wiki/Planets\" class=\"mw-redirect\" title=\"Planets\">planets</a>, to rearrange their atoms and molecules via <a href=\"/wiki/Quantum_tunneling\" class=\"mw-redirect\" title=\"Quantum tunneling\">quantum tunneling</a>. On this timescale, any discrete body of matter \"behaves like a liquid\" and becomes a smooth sphere due to diffusion and gravity.<sup id=\"cite_ref-dyson_131-2\" class=\"reference\"><a href=\"#cite_note-dyson-131\">[123]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 65
+    },
+    "category": "physics",
+    "id": "event-RSHJ",
+    "startTimeInCompactUnits": 65,
+    "easedStartTime": 72.89411764705882,
+    "cleanedContentHTML": "Assuming that protons do not decay, estimated time for rigid objects, from free-floating rocks in space to planets, to rearrange their atoms and molecules via quantum tunneling. On this timescale, any discrete body of matter \"behaves like a liquid\" and becomes a smooth sphere due to diffusion and gravity.[123]",
+    "skimmableContent": "Assuming that protons do not decay, estimated time for rigid objects, from free-floating rocks in space to planets, to rearrange their atoms and molecules via quantum tunneling. On this timescale, any discrete body of matter \"behaves like a liquid\" and becomes a smooth sphere due to diffusion and gravity."
+  },
+  {
+    "yearsFromNow": "5.8×10<sup>68</sup>",
+    "contentHTML": "Estimated time until a <a href=\"/wiki/Stellar_black_hole\" title=\"Stellar black hole\">stellar mass black hole</a> with a mass of 3 <a href=\"/wiki/Solar_mass\" title=\"Solar mass\">solar masses</a> decays into subatomic particles by <a href=\"/wiki/Hawking_radiation\" title=\"Hawking radiation\">Hawking radiation</a>.<sup id=\"cite_ref-Page_1976_135-0\" class=\"reference\"><a href=\"#cite_note-Page_1976-135\">[126]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 68.763
+    },
+    "category": "universe",
+    "id": "event-LTyf",
+    "startTimeInCompactUnits": 68.763,
+    "easedStartTime": 74.04323873686108,
+    "cleanedContentHTML": "Estimated time until a stellar mass black hole with a mass of 3 solar masses decays into subatomic particles by Hawking radiation.[126]",
+    "skimmableContent": "Estimated time until a stellar mass black hole with a mass of 3 solar masses decays into subatomic particles by Hawking radiation."
+  },
+  {
+    "yearsFromNow": "6×10<sup>99</sup>",
+    "contentHTML": "Estimated time until the supermassive black hole of <a href=\"/wiki/TON_618\" title=\"TON 618\">TON 618</a>, as of 2018 the <a href=\"/wiki/List_of_most_massive_black_holes\" title=\"List of most massive black holes\">most massive known</a> with the mass of 66 billion solar masses, dissipates by the emission of Hawking radiation,<sup id=\"cite_ref-Page_1976_135-1\" class=\"reference\"><a href=\"#cite_note-Page_1976-135\">[126]</a></sup> assuming zero angular momentum (non-rotating black hole).",
+    "years": {
+      "base": 10,
+      "exp": 99.778
+    },
+    "category": "universe",
+    "id": "event-tzeW",
+    "startTimeInCompactUnits": 99.778,
+    "easedStartTime": 80.76441416620749,
+    "cleanedContentHTML": "Estimated time until the supermassive black hole of TON 618, as of 2018 the most massive known with the mass of 66 billion solar masses, dissipates by the emission of Hawking radiation,[126] assuming zero angular momentum (non-rotating black hole).",
+    "skimmableContent": "Estimated time until the supermassive black hole of TON 618, as of 2018 the most massive known with the mass of 66 billion solar masses, dissipates by the emission of Hawking radiation, assuming zero angular momentum (non-rotating black hole).",
+    "endMovement": true
+  },
+  {
+    "yearsFromNow": "1.7×10<sup>106</sup>",
+    "contentHTML": "Estimated time until a supermassive black hole with a mass of 20 trillion solar masses decays by the Hawking process.<sup id=\"cite_ref-Page_1976_135-2\" class=\"reference\"><a href=\"#cite_note-Page_1976-135\">[126]</a></sup> This marks the end of the Black Hole Era. Beyond this time, if protons do decay, the Universe enters the <a href=\"/wiki/Dark_Era\" class=\"mw-redirect\" title=\"Dark Era\">Dark Era</a>, in which all physical objects have decayed to subatomic particles, gradually winding down to their final energy state in the <a href=\"/wiki/Heat_death_of_the_universe\" title=\"Heat death of the universe\">heat death of the universe</a>.<sup id=\"cite_ref-five_ages_3-3\" class=\"reference\"><a href=\"#cite_note-five_ages-3\">[3]</a></sup><sup id=\"cite_ref-dying_4-11\" class=\"reference\"><a href=\"#cite_note-dying-4\">[4]</a></sup><p>Also by this time, if the projected expansion rate of the universe continues with doubling in size occurring approximately every 12 billion years,<sup id=\"cite_ref-:0_114-4\" class=\"reference\"><a href=\"#cite_note-:0-114\">[110]</a></sup> the universe will have expanded in size by a factor of more than <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" alttext=\"{\\displaystyle 10^{10^{95}}.}\">  <semantics>    <mrow class=\"MJX-TeXAtom-ORD\">      <mstyle displaystyle=\"true\" scriptlevel=\"0\">        <msup>          <mn>10</mn>          <mrow class=\"MJX-TeXAtom-ORD\">            <msup>              <mn>10</mn>              <mrow class=\"MJX-TeXAtom-ORD\">                <mn>95</mn>              </mrow>            </msup>          </mrow>        </msup>        <mo>.</mo>      </mstyle>    </mrow>    <annotation encoding=\"application/x-tex\">{\\displaystyle 10^{10^{95}}.}</annotation>  </semantics></math></span><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/eac2b6880f040d4931c05aa7d242b2ec9a8a02af\" class=\"mwe-math-fallback-image-inline\" aria-hidden=\"true\" style=\"vertical-align: -0.338ex; width:6.347ex; height:3.009ex;\" alt=\"{\\displaystyle 10^{10^{95}}.}\"></span><sup id=\"cite_ref-136\" class=\"reference\"><a href=\"#cite_note-136\">[note 10]</a></sup><sup id=\"cite_ref-137\" class=\"reference\"><a href=\"#cite_note-137\">[note 11]</a></sup> If protons do decay, most of the universe would then be almost pure vacuum with each of the <a href=\"/wiki/Elementary_particle#Common_elementary_particles\" title=\"Elementary particle\">currently estimated 10<sup>97</sup> subatomic particles</a> being entirely alone within its cosmological event horizon.<sup id=\"cite_ref-138\" class=\"reference\"><a href=\"#cite_note-138\">[note 12]</a></sup> From a probabilistic standpoint, our currently observable universe would be unlikely to then contain even a single subatomic particle.<sup id=\"cite_ref-139\" class=\"reference\"><a href=\"#cite_note-139\">[note 13]</a></sup><sup id=\"cite_ref-140\" class=\"reference\"><a href=\"#cite_note-140\">[note 14]</a></sup></p>",
+    "years": {
+      "base": 10,
+      "exp": 106.23
+    },
+    "category": "physics",
+    "id": "event-jvbH",
+    "startTimeInCompactUnits": 106.23,
+    "easedStartTime": 100.39645454545455,
+    "cleanedContentHTML": "Estimated time until a supermassive black hole with a mass of 20 trillion solar masses decays by the Hawking process. This marks the end of the Black Hole Era. Beyond this time, if protons do decay, the Universe enters the Dark Era, in which all physical objects have decayed to subatomic particles, gradually winding down to their final energy state in the heat death of the universe.<p>Also by this time, if the projected expansion rate of the universe continues with doubling in size occurring approximately every 12 billion years, the universe will have expanded in size by a factor of more than 10<sup>10<sup>95</sup></sup>. If protons do decay, most of the universe would then be almost pure vacuum with each of the currently estimated 1097 subatomic particles being entirely alone within its cosmological event horizon. From a probabilistic standpoint, our currently observable universe would be unlikely to then contain even a single subatomic particle.</p>",
+    "skimmableContent": "A supermassive black hole with a mass of 20 trillion solar masses decays by the Hawking process. This marks the end of the Black Hole Era. Beyond this time, if protons do decay, the Universe enters the Dark Era, in which all physical objects have decayed to subatomic particles, gradually winding down to their final energy state in the heat death of the universe."
+  },
+  {
+    "yearsFromNow": "10<sup>139</sup>",
+    "contentHTML": "2018 estimate of Standard Model lifetime before <a href=\"/wiki/False_vacuum#Vacuum_metastability_event\" title=\"False vacuum\">collapse of a false vacuum</a>; 95% confidence interval is 10<sup>58</sup> to 10<sup>241</sup> years due in part to uncertainty about the top quark mass.<sup id=\"cite_ref-141\" class=\"reference\"><a href=\"#cite_note-141\">[127]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 139
+    },
+    "category": "physics",
+    "id": "event-rlvs",
+    "startTimeInCompactUnits": 139,
+    "easedStartTime": 102.48181818181818,
+    "cleanedContentHTML": "2018 estimate of Standard Model lifetime before collapse of a false vacuum; 95% confidence interval is 1058 to 10241 years due in part to uncertainty about the top quark mass.",
+    "skimmableContent": "Collapse of a false vacuum, if the universe actually is in a false vacuum. This would mean that everything, from subatomic particles to galaxies, and all fundamental forces, would be reconstituted into new fundamental particles and forces and structures."
+  },
+  {
+    "yearsFromNow": "10<sup>1500</sup>",
+    "contentHTML": "Assuming protons do not decay, the estimated time until all <a href=\"/wiki/Baryonic_matter\" class=\"mw-redirect\" title=\"Baryonic matter\">baryonic matter</a> has either fused together to form <a href=\"/wiki/Iron-56\" title=\"Iron-56\">iron-56</a> or decayed from a higher mass element into iron-56 (see <a href=\"/wiki/Iron_star\" title=\"Iron star\">iron star</a>).<sup id=\"cite_ref-dyson_131-3\" class=\"reference\"><a href=\"#cite_note-dyson-131\">[123]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 1500
+    },
+    "category": "physics",
+    "id": "event-OPlH",
+    "startTimeInCompactUnits": 1100,
+    "easedStartTime": 163.63636363636363,
+    "cleanedContentHTML": "Assuming protons do not decay, the estimated time until all baryonic matter has either fused together to form iron-56 or decayed from a higher mass element into iron-56 (see iron star).[123]",
+    "skimmableContent": "Assuming protons do not decay, the estimated time until all baryonic matter has either fused together to form iron-56 or decayed from a higher mass element into iron-56.",
+    "endMovement": true
+  },
+  {
+    "yearsFromNow": "10<sup>10<sup>50</sup></sup>",
+    "contentHTML": "Estimated time for a <a href=\"/wiki/Boltzmann_brain\" title=\"Boltzmann brain\">Boltzmann brain</a> to appear in the vacuum via a spontaneous entropy decrease.<sup id=\"cite_ref-linde_6-1\" class=\"reference\"><a href=\"#cite_note-linde-6\">[6]</a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 1e+50
+    },
+    "category": "universe",
+    "id": "event-DrRp",
+    "startTimeInCompactUnits": 2900,
+    "easedStartTime": 278.18181818181813,
+    "cleanedContentHTML": "Estimated time for a Boltzmann brain to appear in the vacuum via a spontaneous entropy decrease.[6]",
+    "skimmableContent": "Estimated time for a Boltzmann brain to appear in the vacuum via a spontaneous entropy decrease.",
+    "endMovement": true
+  },
+  {
+    "yearsFromNow": "10<sup>10<sup>76</sup></sup>",
+    "contentHTML": "High estimate for the time until all iron stars collapse into black holes, assuming no proton decay or virtual black holes, which then (on these timescales) instantaneously evaporate into sub-atomic particles.<p>This is also the highest estimated possible time for Black Hole Era (and subsequent Dark Era) to finally commence. Beyond this point, it is almost certain that the Universe will contain no more baryonic matter and will be an almost pure vacuum (possibly accompanied with the presence of a <a href=\"/wiki/False_vacuum\" title=\"False vacuum\">false vacuum</a>) until it reaches its <a href=\"/wiki/Heat_death_of_the_universe\" title=\"Heat death of the universe\">final energy state</a>, assuming it does not happen before this time.</p>",
+    "years": {
+      "base": 10,
+      "exp": 1e+76
+    },
+    "category": "physics",
+    "id": "event-PwTi",
+    "startTimeInCompactUnits": 3800,
+    "easedStartTime": 335.4545454545455,
+    "cleanedContentHTML": "High estimate for the time until all iron stars collapse into black holes, assuming no proton decay or virtual black holes, which then (on these timescales) instantaneously evaporate into sub-atomic particles. This is also the highest estimated possible time for the Black Hole Era (and subsequent Dark Era) to finally commence. Beyond this point, it is almost certain that the Universe will contain no more baryonic matter and will be an almost pure vacuum (possibly accompanied with the presence of a false vacuum) until it reaches its final energy state, assuming it does not happen before this time.",
+    "skimmableContent": "All iron stars collapse into black holes, assuming no proton decay or virtual black holes, which then (on these timescales) instantaneously evaporate into sub-atomic particles. This is also the highest estimated possible time for the Black Hole Era (and subsequent Dark Era) to finally commence. Beyond this point, it is almost certain that the Universe will contain no more baryonic matter and will be an almost pure vacuum (possibly accompanied with the presence of a false vacuum) until it reaches its final energy state, the heat death of the universe, assuming it does not happen before this time.",
+    "endMovement": true
+  },
+  {
+    "yearsFromNow": "10<sup>10<sup>120</sup></sup>",
+    "contentHTML": "High estimate for the time for the universe to reach its final energy state, even in the presence of a false vacuum.<sup id=\"cite_ref-linde_6-2\" class=\"reference\"><a href=\"#cite_note-linde-6\"></a></sup>",
+    "years": {
+      "base": 10,
+      "exp": 1e+120
+    },
+    "category": "physics",
+    "id": "event-yuPb",
+    "startTimeInCompactUnits": 4700,
+    "easedStartTime": 392.7272727272727,
+    "cleanedContentHTML": "High estimate for the time for the universe to reach its final energy state, even in the presence of a false vacuum.",
+    "skimmableContent": "The universe will reach its final energy state, even in the presence of a false vacuum."
+  },
+  {
+    "yearsFromNow": "10<sup>10<sup>10<sup>56</sup></sup></sup>",
+    "contentHTML": "Around this vast timeframe, quantum tunnelling in any isolated patch of the vacuum could generate, via <a href=\"/wiki/Cosmic_inflation\" class=\"mw-redirect\" title=\"Cosmic inflation\">inflation</a>, new <a href=\"/wiki/Big_Bang\" title=\"Big Bang\">Big Bangs</a> giving birth to new universes. Because the total number of ways in which all the subatomic particles in the observable universe can be combined is 10<sup>10<sup>115</sup></sup>, a number which, when multiplied by 10<sup>10<sup>10<sup>56</sup></sup></sup>, disappears into the rounding error, this is also the time required for a <a href=\"/wiki/Quantum_tunnelling\" title=\"Quantum tunnelling\">quantum-tunnelled</a> and <a href=\"/wiki/Quantum_fluctuation\" title=\"Quantum fluctuation\">quantum fluctuation</a>-generated Big Bang to produce a new universe identical to our own, assuming that every new universe contained at least the same number of subatomic particles and obeyed laws of physics <a href=\"/wiki/String_theory_landscape\" title=\"String theory landscape\">within the range</a> predicted by <a href=\"/wiki/String_theory\" title=\"String theory\">string theory</a>.",
+    "years": {
+      "tooBig": true
+    },
+    "category": "physics",
+    "id": "event-qQoQ",
+    "startTimeInCompactUnits": 5600,
+    "easedStartTime": 450,
+    "cleanedContentHTML": "Around this vast timeframe, quantum tunnelling in any isolated patch of the vacuum could generate, via <a href=\"/wiki/Cosmic_inflation\" class=\"mw-redirect\" title=\"Cosmic inflation\">inflation</a>, new <a href=\"/wiki/Big_Bang\" title=\"Big Bang\">Big Bangs</a> giving birth to new universes. Because the total number of ways in which all the subatomic particles in the observable universe can be combined is 10<sup>10<sup>115</sup></sup, a number which, when multiplied by 10<sup>10<sup>10<sup>56</sup></sup></sup>, disappears into the rounding error, this is also the time required for a <a href=\"/wiki/Quantum_tunnelling\" title=\"Quantum tunnelling\">quantum-tunnelled</a> and <a href=\"/wiki/Quantum_fluctuation\" title=\"Quantum fluctuation\">quantum fluctuation</a>-generated Big Bang to produce a new universe identical to our own, assuming that every new universe contained at least the same number of subatomic particles and obeyed laws of physics <a href=\"/wiki/String_theory_landscape\" title=\"String theory landscape\">within the range</a> predicted by <a href=\"/wiki/String_theory\" title=\"String theory\">string theory</a>.",
+    "speakableContent": "Quantum tunnelling in any isolated patch of the vacuum could generate, via inflation, new Big Bangs giving birth to new universes. Because the total number of ways in which all the subatomic particles in the observable universe can be combined is 10 to the 10th to the 115th power, a number which, when multiplied by 10 to the 10th to the 10th to the 56th power, disappears into the rounding error, this is also the time required for a quantum-tunnelled and quantum fluctuation-generated Big Bang to produce a new universe identical to our own.",
+    "skimmableContent": "Quantum tunnelling in any isolated patch of the vacuum could generate, via inflation, new Big Bangs giving birth to new universes. Because the total number of ways in which all the subatomic particles in the observable universe can be combined is 10<sup>10<sup>115</sup></sup>, a number which, when multiplied by 10<sup>10<sup>10<sup>56</sup></sup></sup>, disappears into the rounding error, this is also the time required for a quantum-tunnelled and quantum fluctuation-generated Big Bang to produce a new universe identical to our own.",
+    "isEnd": true
+  }
+]
