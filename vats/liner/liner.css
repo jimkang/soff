@@ -1,0 +1,227 @@
+html {
+  background-color: white;
+}
+
+body {
+  font-size: 24px;
+  font-family: eurostile, futura, sans-serif;
+  background:
+linear-gradient(to right, hsla(240, 50%, 50%, 0.1) 0%, hsla(0, 85%, 50%, 0.1) 30%, hsla(0, 85%, 50%, 0.1) 70%, hsla(240, 50%, 50%, 0.1) 100%),
+linear-gradient(to bottom, hsla(0, 0%, 0%, 0.99) 0%, hsla(0, 0%, 0%, 0.995) 95%, hsla(0, 0%, 0%, 1.0) 100%);
+  color: #fff;
+  margin: 0;
+  margin-bottom: 2rem;
+  --time-blue: hsla(211, 70%, 50%, 0.6);
+  --time-blue-ghostly: hsla(211, 70%, 50%, 0.3);
+  --time-blue-dim: hsla(211, 70%, 50%, 0.1);
+  --time-blue-bright: hsla(211, 70%, 50%, 0.95);
+  width: 9.5in;
+  display: flex;
+}
+
+.col {
+  width: 4.75in;
+}
+
+.shadowed {
+  text-shadow: #333 0.2px 0.2px;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+#status-message {
+  background-color: hsla(0, 100%, 50%, 0.8);
+  margin: 1rem;
+  padding: 1rem;
+  text-shadow: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  color: #fff;
+  font-size: 0.8em;
+  cursor: pointer;
+  background-color: hsla(0, 0%, 20%, 0.5);
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border-width: 1px;
+  border-color: #fff;
+  border-style: solid;
+  min-width: 44px;
+  font-family: eurostile-extended;
+  letter-spacing: 2px;
+}
+
+.play-controls button {
+  padding: 0;
+  background-color: transparent;
+  border-color: var(--time-blue);
+  border-radius: 2px;
+  min-width: 8px;
+  min-height: 8px;
+  fill: var(--time-blue-bright);
+  margin-bottom: 4px;
+  padding: 4px;
+}
+
+#skip-back-button svg {
+  transform: rotate(-90deg);
+}
+
+#skip-forward-button svg {
+  transform: rotate(90deg);
+}
+
+.outer-container {
+  display: flex;
+}
+
+#board {
+  z-index: 1;
+  font-size: 6px; /* board has a viewBox. This is 6/100. */
+  cursor: grab;
+  background: linear-gradient(to right, hsla(240, 50%, 5%, 0) 10%, hsla(240, 50%, 12%, 0.8) 50%, hsla(240, 50%, 5%, 0) 90%);
+}
+
+#description-container {
+  width: 50%;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+#description-container::-webkit-scrollbar {
+  background-color: var(--time-blue-dim);
+  /* Warning: Browsers do not interpret scrollbar colors consistently right now. */
+}
+
+#description-container::-webkit-scrollbar-thumb {
+  background-color: var(--time-blue-ghostly);
+}
+
+.time {
+  font-size: 2em;
+  text-align: center;
+  line-height: 1em;
+}
+
+.description {
+  line-height: 1.2em;
+  font-size: 2em;
+  margin-top: 1em;
+  padding-top: 1em;
+  padding-left: 1em;
+}
+
+a:link {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ddd;
+}
+
+#version-info {
+  position: absolute;
+  right: 1.5em;
+  top: 1.5em;
+  font-size: 0.5em;
+  color: #666;
+}
+
+.time-line {
+  stroke: var(--time-blue);
+  stroke-width: 0.5;
+}
+
+.tick {
+  stroke: var(--time-blue);
+  stroke-width: 0.5;
+}
+
+.tick.current {
+  stroke: var(--time-blue);
+  stroke-width: 1;
+}
+
+.now-circle {
+  stroke-width: 1;
+  fill: var(--time-blue-bright);
+}
+
+#years-notice {
+  font-size: 12px;
+  word-break: break-word;
+}
+
+#start-container {
+  width: 80%;
+  max-width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+  font-family: helvetica, sans-serif;
+}
+
+#start-container ul {
+  list-style-type: square;
+}
+
+#start-container ul li {
+  margin-bottom: 0.5em;
+}
+
+#start-container a {
+  border-bottom: 1px solid #fff;
+}
+
+#start-button {
+  width: 100%;
+  font-size: 2em;
+  padding: 0.1em;
+  font-weight: bold;
+  margin-top: 0.25em;
+  text-transform: uppercase;
+  box-shadow: #444 0 0 4px;
+}
+
+.title {
+  text-align: center;
+  font-family: eurostile-extended, eurostile, futura, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: #333 1px 1px;
+  margin-bottom: 1em;
+}
+
+.subtitle {
+  font-family: eurostile-extended, futura, sans-serif;
+  text-align: center;
+}
+
+.intro-footer {
+  margin-top: 3em;
+}
+
+.intro-description {
+  font-weight: bold;
+}
+
+.hidden {
+  opacity: 0;
+  transition: opacity 1s;
+  display: none;
+}
+
+@media all and (max-height: 568px) {
+  body {
+    font-size: 18px;
+  }
+}

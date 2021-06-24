@@ -12,6 +12,9 @@ pushall: sync
 run:
 	$(rollup) -c -w
 
+liner:
+	APP=liner $(rollup) -c -w
+
 build:
 	$(rollup) -c
 
